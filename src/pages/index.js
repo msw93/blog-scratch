@@ -6,7 +6,7 @@ import SEO from '../components/Seo';
 import styled from "@emotion/styled"
 import { colors } from "../style/theme.js"
 
-const BlogTitle = styled.h3`
+const BlogTitle = styled.div`
   font-weight: bold;
   margin: 0 0;
   a {

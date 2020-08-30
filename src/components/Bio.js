@@ -15,7 +15,7 @@ const IntroText = styled.p`
   font-size: 1.2rem;
   font-weight: 200;
 `
-const Blurb = styled.h1`
+const Blurb = styled.h2`
   font-size: 1.3rem;
   font-weight: 500;
   font-style: italic;

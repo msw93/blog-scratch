@@ -12,6 +12,9 @@ const NavLinks = styled.ul`
   justify-content: space-between;
   list-style: none;
   padding: 0;
+  a{
+    color: ${colors.main}
+  }
 `
 const BlogPost = styled.article`
   blockquote {
@@ -30,8 +33,12 @@ const BlogPost = styled.article`
 `
 const BlogName = styled.h3`
   margin-bottom: 0;
+  a:hover, a:visited, a:link, a:active {
+    color: black;
+    text-decoration:none;
+  }
 `
-const BlogHeader = styled.p`
+const BlogHeader = styled.div`
   p {
     font-style: italic;
     margin: 0;
@@ -44,7 +51,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
 
   return (
     <Layout>
-      <BlogName>Mike's Blog</BlogName>
+      <BlogName><Link to='/'>Mike W's Blog</Link></BlogName>
       <BlogPost>
         <BlogHeader>
           <h1>{post.frontmatter.title}</h1>
@@ -56,7 +63,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         <hr />
         <footer>
           {" "}
-          Written by Mike Winer who lives and works in Toronto making things and
+          Written by Mike Winer who lives and works in Toronto, making things and
           blogging about life and its adventures. You should give him a follow
           on Twitter.{" "}
         </footer>
@@ -81,7 +88,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           <li>
             {next && (
               <Link to="/" rel="next">
-                Let's go Home 🏠
+                Let's go Home <span role="img" aria-label="home">🏠</span>
               </Link>
             )}
           </li>

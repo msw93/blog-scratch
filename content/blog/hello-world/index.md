@@ -1,5 +1,5 @@
 ---
-title: You can't be fluent in Japanese in under 2 years
+title: You can't be fluent in Japanese in under 2 years.
 date: "2020-08-22"
 description: "Japanese a love story, how I failed and you probably will too."
 ---

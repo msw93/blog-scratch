@@ -8,6 +8,8 @@ const Wrapper = styled.div`
   ${'' /* border: 2px solid blue; */}
   max-width: 850px;
   margin: 0 auto;
+  padding: 1rem;
+  padding-top: 0.2rem;
 `
 
 const Layout = ({ children }) => {

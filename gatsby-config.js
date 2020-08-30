@@ -54,6 +54,7 @@ module.exports = {
         icon: `src/images/icon/thik-logo.svg`,
       },
     },
+    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

@@ -3,12 +3,14 @@ import { graphql, Link } from "gatsby"
 import Bio from "../components/Bio"
 import Layout from "../components/Layout"
 import styled from "@emotion/styled"
+// import { colors } from '../style/theme.js'
 
 const BlogTitle = styled.h3`
   font-weight: bold;
   margin: 0 0;
   a:link, a:visited {
-    color: blue;
+    font-size: 1.4rem;
+    color: #47b8d4;
     text-decoration: none;
   }
 

@@ -1,8 +1,9 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import styled from "@emotion/styled"
+import { colors } from "../style/theme"
 
-// import Bio from "../components/Bio"
+//import Bio from "../components/Bio"
 import Layout from "../components/Layout"
 
 const NavLinks = styled.ul`
@@ -14,14 +15,26 @@ const NavLinks = styled.ul`
 `
 const BlogPost = styled.article`
   blockquote {
-    color:red;
+    font-style: italic;
+    padding: 0.5em 10px;
+    border-left: 0.32rem solid #47b8d4;
+    background: #f9f9f9;
   }
-  h1 { 
-    color:red;
+  h1 {
+    color: ${colors.main};
     margin: 0;
   }
   p {
-    margin:0;
+    margin: 0.4rem 0;
+  }
+`
+const BlogName = styled.h3`
+  margin-bottom: 0;
+`
+const BlogHeader = styled.p`
+  p {
+    font-style: italic;
+    margin: 0;
   }
 `
 
@@ -31,15 +44,22 @@ const BlogPostTemplate = ({ data, pageContext }) => {
 
   return (
     <Layout>
+      <BlogName>Mike's Blog</BlogName>
       <BlogPost>
-        <header>
+        <BlogHeader>
           <h1>{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
           <p>{post.frontmatter.description}</p>
-        </header>
+          <small>{post.frontmatter.date}</small>
+        </BlogHeader>
+        <br />
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr />
-        <footer>{/* <Bio /> */}</footer>
+        <footer>
+          {" "}
+          Written by Mike Winer who lives and works in Toronto making things and
+          blogging about life and its adventures. You should give him a follow
+          on Twitter.{" "}
+        </footer>
       </BlogPost>
 
       <nav>
@@ -61,7 +81,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           <li>
             {next && (
               <Link to="/" rel="next">
-                Let's go Home →
+                Let's go Home 🏠
               </Link>
             )}
           </li>

@@ -5,8 +5,8 @@ import styled from "@emotion/styled"
 require("typeface-open-sans")
 
 const Wrapper = styled.div`
-  border: 2px solid blue;
-  max-width: 1000px;
+  ${'' /* border: 2px solid blue; */}
+  max-width: 850px;
   margin: 0 auto;
 `
 

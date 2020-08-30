@@ -2,7 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import styled from "@emotion/styled"
 import { colors } from "../style/theme"
-
+import SEO from "../components/Seo"
 //import Bio from "../components/Bio"
 import Layout from "../components/Layout"
 
@@ -12,8 +12,8 @@ const NavLinks = styled.ul`
   justify-content: space-between;
   list-style: none;
   padding: 0;
-  a{
-    color: ${colors.main}
+  a {
+    color: ${colors.main};
   }
 `
 const BlogPost = styled.article`
@@ -30,12 +30,18 @@ const BlogPost = styled.article`
   p {
     margin: 0.4rem 0;
   }
+  b {
+    color: ${colors.main};
+  }
 `
 const BlogName = styled.h3`
   margin-bottom: 0;
-  a:hover, a:visited, a:link, a:active {
+  a:hover,
+  a:visited,
+  a:link,
+  a:active {
     color: black;
-    text-decoration:none;
+    text-decoration: none;
   }
 `
 const BlogHeader = styled.div`
@@ -51,7 +57,13 @@ const BlogPostTemplate = ({ data, pageContext }) => {
 
   return (
     <Layout>
-      <BlogName><Link to='/'>Mike W's Blog</Link></BlogName>
+      <SEO
+        title={post.frontmatter.title}
+        description={post.frontmatter.description || post.excerpt}
+      />
+      <BlogName>
+        <Link to="/">Mike W's Blog</Link>
+      </BlogName>
       <BlogPost>
         <BlogHeader>
           <h1>{post.frontmatter.title}</h1>
@@ -60,12 +72,14 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         </BlogHeader>
         <br />
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr />
+        <hr
+          style={{ border: `${colors.main} solid 1px`, margin: `30px 0px` }}
+        />
         <footer>
           {" "}
-          Written by Mike Winer who lives and works in Toronto, making things and
-          blogging about life and its adventures. You should give him a follow
-          on Twitter.{" "}
+          Written by Mike Winer who lives and works in Toronto, making things
+          and blogging about life and its adventures. You should give him a
+          follow on Twitter.{" "}
         </footer>
       </BlogPost>
 
@@ -88,7 +102,10 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           <li>
             {next && (
               <Link to="/" rel="next">
-                Let's go Home <span role="img" aria-label="home">🏠</span>
+                Let's go Home{" "}
+                <span role="img" aria-label="home">
+                  🏠
+                </span>
               </Link>
             )}
           </li>
@@ -102,6 +119,11 @@ export default BlogPostTemplate
 
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
+    site {
+      siteMetadata {
+        title
+      }
+    }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       excerpt(pruneLength: 160)

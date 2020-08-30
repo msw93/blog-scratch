@@ -15,4 +15,4 @@ Oh, and here's a great quote from this Wikipedia on
 > Hello this is a nice quote
 > Very nice indeed.
 
-<!-- ![Chinese Salty Egg](./salty_egg.jpg) -->
+![Weird jap plants](./plants.jpg)

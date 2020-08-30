@@ -3,17 +3,35 @@ import { graphql, Link } from "gatsby"
 import Bio from "../components/Bio"
 import Layout from "../components/Layout"
 import styled from "@emotion/styled"
-import { colors } from '../style/theme.js'
+import { colors } from "../style/theme.js"
 
 const BlogTitle = styled.h3`
   font-weight: bold;
   margin: 0 0;
-  a:link, a:visited {
-    font-size: 1.4rem;
-    color: ${colors.main};
-    text-decoration: none;
+  a {
+    background:
+     linear-gradient(
+       to bottom, ${colors.main} 0%,
+       ${colors.main} 100%
+     );
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-size: 3px 3px;
+  text-decoration: none;
+  transition: background-size .3s;
+  
   }
+  a:link,
+  a:visited {
+    font-size: 1.4rem;
+    color: black;
+    /* text-decoration: none; */
+  }
+  a:hover {
+    background-size: 4px 50px;
+    /* color: white; */
 
+  }
 `
 
 export default function Home({ data }) {
@@ -28,9 +46,7 @@ export default function Home({ data }) {
             <article key={node.fields.slug}>
               <header>
                 <BlogTitle>
-                  <Link to={node.fields.slug}>
-                    {title}
-                  </Link>
+                  <Link to={node.fields.slug}>{title}</Link>
                 </BlogTitle>
                 <small>{node.frontmatter.date}</small>
               </header>

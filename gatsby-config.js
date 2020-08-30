@@ -6,10 +6,25 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: `Mike Winer Blog`,
+    author: {
+      name: `Mike Winer`,
+      summary: `Lives in Toronto, likes building things.`,
+    },
+    description: `Personal Blog for Mike Wine `,
+    siteUrl: ``,
+    social: {
+      twitter: `mikewiner`,
+    },
+  },
+
   plugins: [
     `gatsby-plugin-emotion`,
     `gatsby-transformer-remark`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-transformer-sharp`,
+     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

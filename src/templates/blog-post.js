@@ -33,9 +33,18 @@ const BlogPost = styled.article`
   b {
     color: ${colors.main};
   }
+  figure {
+    /* margin: 0rem 0; */
+  }
+  figcaption {
+    color: rgba(0,0,0,0.6);
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+  }
 `
 const BlogName = styled.h3`
-  margin-bottom: 0;
+  
   a:hover,
   a:visited,
   a:link,
@@ -47,7 +56,7 @@ const BlogName = styled.h3`
 const BlogHeader = styled.div`
   p {
     font-style: italic;
-    margin: 0;
+    margin: 0rem 0rem;
   }
 `
 
@@ -61,7 +70,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <BlogName>
+      <BlogName >
         <Link to="/">Mike W's Blog</Link>
       </BlogName>
       <BlogPost>
@@ -72,6 +81,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         </BlogHeader>
         <br />
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
+       
         <hr
           style={{ border: `${colors.main} solid 1px`, margin: `30px 0px` }}
         />

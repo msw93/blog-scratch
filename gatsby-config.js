@@ -12,8 +12,8 @@ module.exports = {
       name: `Mike Winer`,
       summary: `Lives in Toronto, likes building things.`,
     },
-    description: `Personal Blog for Mike Wine `,
-    siteUrl: ``,
+    description: `Personal Blog for Mike Winer`,
+    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `mikewiner`,
     },
@@ -24,7 +24,24 @@ module.exports = {
     `gatsby-transformer-remark`,
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
-     `gatsby-plugin-sharp`,
+    `gatsby-plugin-sharp`,
+     {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              // It's important to specify the maxWidth (in pixels) of
+              // the content container as this plugin uses this as the
+              // base for generating different widths of each image.
+              maxWidth: 850,
+              showCaptions: ['alt', 'title'],
+            },
+          },
+        ],
+      },
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

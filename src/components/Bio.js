@@ -9,16 +9,16 @@ const FlexContainer = styled.div`
   align-items: center;
   justify-content: center;
 `
-const ImageMask = styled.div`
-  /* display: inline-block;
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  overflow: hidden; */
-`
+// const ImageMask = styled.div`
+//   /* display: inline-block;
+//   width: 100px;
+//   height: 100px;
+//   border-radius: 50%;
+//   overflow: hidden; */
+// `
 
 const IntroText = styled.p`
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   font-weight: 200;
 `
 

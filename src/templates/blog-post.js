@@ -78,6 +78,13 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           <p>{post.frontmatter.description}</p>
           <small>{post.frontmatter.date}</small>
         </BlogHeader>
+        <hr
+          style={{
+            border: `${colors.main} solid 1px`,
+            margin: `5px 0px`,
+            width: `60%`,
+          }}
+        />
         <br />
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
 
@@ -85,7 +92,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           style={{ border: `${colors.main} solid 1px`, margin: `30px 0px` }}
         />
         <footer>
-          <Bio/>
+          <Bio />
         </footer>
       </BlogPost>
 

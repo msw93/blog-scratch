@@ -1,18 +1,18 @@
 ---
-title: You can't be fluent in Japanese in under 2 years.
-date: "2020-08-22"
-description: "Japanese a love story, how I failed and you probably will too."
+title: You can't become fluent in Japanese in under 2 years.
+date: "2020-08-30"
+description: "Japanese, a love story, how I failed and you probably will too."
 ---
 
-This is my first post on my new fake blog! How exciting!
+I worked my ass off, I did everything I thought was right. I tried as hard as I could, and I didn't end up where I wanted to be. This is the story of my 2 year struggle wish Japanese.
 
-I'm sure I'll write a lot more interesting things in the future.
+I just want to preface that this post is not about discouraging anyone from studying Japanese and/or a second language. I just want to dispel some myths and help people set realistic expectations for themselves.
 
-Oh, and here's a great quote from this Wikipedia on
+At the time of writing this post it has been almost 3 years since I started studying Japanese and I still don't consider myself fluent.
 
 <!-- [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg). -->
 
-> Hello this is a nice quote
+> Hello this is a nice quote.
 > Very nice indeed.
 
 ![Weird jap plants](./plants.jpg)

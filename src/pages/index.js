@@ -33,6 +33,12 @@ const BlogTitle = styled.div`
   }
 `
 
+const BlogDescription = styled.p`
+  margin: 0px;
+  margin-bottom: 2rem;
+`
+
+
 export default function Home({ data }) {
   const posts = data.allMarkdownRemark.edges
   return (
@@ -51,7 +57,7 @@ export default function Home({ data }) {
                 <small>{node.frontmatter.date}</small>
               </header>
               <section>
-                <p
+                <BlogDescription
                   dangerouslySetInnerHTML={{
                     __html: node.frontmatter.description || node.excerpt,
                   }}

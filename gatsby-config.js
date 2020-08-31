@@ -7,7 +7,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Mike Winer Blog`,
+    title: `Mike Winer's Blog`,
     author: {
       name: `Mike Winer`,
       summary: `Lives in Toronto, likes building things.`,
@@ -64,6 +64,13 @@ module.exports = {
       options: {
         path: `${__dirname}/content/blog`,
         name: `blog`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/images/pictures`,
+        name: `pictures`,
       },
     },
   ],

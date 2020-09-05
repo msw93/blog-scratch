@@ -14,7 +14,5 @@ At the time of writing this post it has been almost 3 years since I started stud
 
 <!-- [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg). -->
 
-> Hello this is a nice quote.
-> Very nice indeed.
 
-![Weird jap plants](./plants.jpg)
+![Weird japanese plants](./plants.jpg)

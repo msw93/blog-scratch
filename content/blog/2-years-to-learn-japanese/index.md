@@ -18,11 +18,11 @@ I think the definition the fluency for everyone is different, but for myself flu
 
 When I first moved to Japan I was a Snowboaring Instructor and lived up in Hokkaido in a ski town called Niseko and initially had zero desire to learn Japanese being totally surrounded by foreigners. After about a month or two of living there I started realizing how awesome Japanese sounded to me and how useful it would be to be able to speak and read Japanese. I thought how fucking awesome would it be if I could learn what a "Spirit Bomb" was in Japanese. And every time I looked at some mysterious Japanese text it motivated me to start learning.
 
-![Even when I pooped the toilets were trying to motivate me.](./japanese-toilet.jpg)
+![When I pooped, EVEN the toilets were trying to motivate me.](./japanese-toilet.jpg)
 
 So after reading some reddit posts, looking at all the cool language apps in the play store and watching some youtube videos I said "fuck it, lets do it, how hard could this whole Japanese thing be?"
 
-tldr: 意外に難しかった、 fucking hard.
+tldwtr: 意外に難しかった、 fucking hard.
 
 I felt inspired after watching some polyglot videos about some slightly overweight irish fellow learning japanese in just 3 months! And reading about this so called 69-31 errr, 80-20 rule. A lot of these so called polyglot gurus and internet senseis said you could do it in about 6 months - 1 year IF you worked HARD. So I said "God damn it, I'm a pretty resourceful guy and I live in Japan, if anyone can do it in 6 months to a year I can right?"
 
@@ -32,7 +32,7 @@ So about sometime in the middle of December I started visiting the [reddit.com/r
 
  I decided in this digital age the best way to learn a language was with Apps, so I downloaded them all, Duolingo, Lingodeer, Memorize, Anki, some japanese dictionaries, and I started learning how to read. I also had a friend who was able to *seemingly* have decent conversation with locals from only using Pimsleur for a few months before coming to Japan.
 
-So I started only maybe spending about ~30 mins a day studying but that quickly escalated to several hours a day. I was learning Hiragana, Katakana, then quickly moved to the Kanji. I became obsessed pretty quickly, but unfortunately I heard
+So I started only maybe spending about ~30 mins a day studying but that quickly escalated to several hours a day. I was learning Hiragana, Katakana, then quickly moved to the Kanji. I became obsessed pretty quickly, but unfortunately I hurt my shoulder on a failed backflip attempt (who knew that ) and it sort of forced me into a retirement from teaching snowboarding, which was great because now I could find a job where I study japanese and japanese culture full time!
 
 ## Stage 2 - Genki and Anki, to infinity and beyond~
 

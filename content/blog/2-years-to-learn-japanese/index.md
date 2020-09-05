@@ -32,9 +32,11 @@ So about sometime in the middle of December I started visiting the [reddit.com/r
 
  I decided in this digital age the best way to learn a language was with Apps, so I downloaded them all, Duolingo, Lingodeer, Memorize, Anki, some japanese dictionaries, and I started learning how to read. I also had a friend who was able to *seemingly* have decent conversation with locals from only using Pimsleur for a few months before coming to Japan.
 
-So I started only maybe spending about ~30 mins a day studying but that quickly escalated to several hours a day. I was learning Hiragana, Katakana, then quickly moved to the Kanji. I became obsessed pretty quickly, but unfortunately I hurt my shoulder on a failed backflip attempt (who knew that ) and it sort of forced me into a retirement from teaching snowboarding, which was great because now I could find a job where I study japanese and japanese culture full time!
+So I started only maybe spending about ~30 mins a day studying but that quickly escalated to several hours a day. I was learning Hiragana, Katakana, then quickly moved to the Kanji. I became obsessed pretty quickly, but unfortunately I hurt my shoulder on a failed backflip attempt (who knew that you could pop out out your shoulder and concuss yourself at the same time?) and it sort of forced me into a retirement from teaching snowboarding, which was great because now I could find a job where I study japanese and japanese culture full time!
 
 ## Stage 2 - Genki and Anki, to infinity and beyond~
+
+My next sto
 
 ## Stage 3 - JLPT - the final frontier???
 

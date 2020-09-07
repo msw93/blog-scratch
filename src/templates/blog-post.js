@@ -33,14 +33,19 @@ const BlogPost = styled.article`
   b {
     color: ${colors.main};
   }
-  figure {
-    /* margin: 0rem 0; */
-  }
+  /* figure {
+    margin: 0rem 0;
+  } */
   figcaption {
     color: rgba(0, 0, 0, 0.6);
     font-weight: 400;
     font-style: italic;
     text-align: center;
+  }
+  @media (max-width: 500px) {
+    figure {
+      margin: 0rem 0;
+    }
   }
 `
 const BlogName = styled.h3`

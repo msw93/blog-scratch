@@ -34,7 +34,7 @@ I decided in this digital age the best way to learn a language was with Apps, so
 
 So I started only maybe spending about ~30 mins a day studying but that quickly escalated to several hours a day. I was learning Hiragana, Katakana, then quickly moved to the Kanji. I became obsessed pretty quickly, but unfortunately I hurt my shoulder on a failed back-flip attempt (who knew that you could pop out out your shoulder and concuss yourself at the same time?) and it sort of forced me into a retirement from teaching snowboarding, which was great because now I could find a job where I study japanese and japanese culture full time!
 
-So after about 2~3 months of using the apps and Pimsleur I was better than all my other Gaijin friends, I had finished the Duolingo tree, I was done almost all of the Lingodeer lessons, I knew a few hundred kanji but I still nowhere close to to fluent. I couldn't understand what the store clerks were saying, I could only read the most basic of signs, I certainly could not hold a conversation unless it was about the most basic of things (weather, hello, hot cold things like that). The thing that bothered my the most was that no matter how much grammar, vocab, kanji and everything that I learnt I could understand ANYTHING that any one said back to me. That pudgy Irish polyglot had deceived me...
+So after about 2~3 months of using the apps and Pimsleur I was better than all my other Gaijin friends, I had finished the Duolingo tree, I was done almost all of the Lingodeer lessons, I knew a few hundred kanji but I still nowhere close to to fluent. I couldn't understand what the store clerks were saying, I could only read the most basic of signs, I certainly could not hold a conversation unless it was about the most basic of things (weather, hello, hot cold things like that). The thing that bothered me the most was that no matter how much grammar, vocab, kanji and everything that I learnt I could not understand ANYTHING that any one said back to me. That pudgy Irish polyglot had deceived me...
 
 ![Felt pretty good about myself, getting this golden beauty.](./duolingo.png)
 
@@ -76,7 +76,19 @@ I felt a 3 year old, I couldn't express the ideas I wanted to express, I couldn'
 
 ## Stage 3 - JLPT N2 - the final frontier??? (1 - 1.5 years)
 
-I wasn't fluent, I didn't feel fluent at all. I still struggled at so many things, but I was making good progress with the reddit senseis study plan and I was sticking to my study schedule, but it was time to get serious. It has been a year and enough is enough time to get fluent, the last thing that some of the online community claimed was a basic fluency or even a business proficiency - The Japanese Language Proficiency Test N2. I had been studying just about a year and most people claimed that getting to N2 level in a year to a year and a half was *possible* but very difficult.
+I wasn't fluent, I didn't feel fluent at all. I still struggled at so many things, but I was making good progress with the reddit senseis study plan and I was sticking to my study schedule, but it was time to get serious. It has been a year and enough is enough time to get fluent, the last thing that some of the online community claimed was a basic fluency or even a business proficiency - The Japanese Language Proficiency Test N2. I had been studying just about a year and most people claimed that getting to N2 level in a year to a year and a half was *possible* but very difficult. This was the last way I knew of to become fluent in Japanese.
+
+After doing my extensive reddit research was I concluded that I needed to know and do, to pass the N2 was the following-
+
+1. Learn around 6000 words.
+2. Finish at LEAST the grammar textbook Tobira.
+3. Listen to as much Japanese as possible.
+4. Read as much Japanese as possible.
+5. Finish several N2 mock tests.
+
+So I signed up. I had about 5 months to cram as much Japanese knowledge into my brain. I had my plan, I was ready.
+
+At this point I probably knew about 3500 words. As I ha
 
 ## Stage 4 - Okinawa - the finalest frontier!?!? (1.5 - 2 years)
 

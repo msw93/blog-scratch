@@ -22,7 +22,7 @@ When I first moved to Japan I was a Snowboarding Instructor and lived up in Hokk
 
 So after reading some reddit posts, looking at all the cool language apps in the play store and watching some youtube videos I said "fuck it, lets do it, how hard could this whole Japanese thing be?"
 
-tldwtr: 意外に難しかった、 fucking hard.
+tldr: 意外に難しかった、 fucking hard.
 
 I felt inspired after watching some polyglot videos about some slightly overweight irish fellow learning japanese in just 3 months! And reading about this so called 69-31 errr, 80-20 rule. A lot of these so called polyglot gurus and internet senseis said you could do it in about 6 months - 1 year IF you worked HARD. So I said "God damn it, I'm a pretty resourceful guy and I live in Japan, if anyone can do it in 6 months to a year I can right?"
 

@@ -81,14 +81,15 @@ I wasn't fluent, I didn't feel fluent at all. I still struggled at so many thing
 After doing my extensive reddit research was I concluded that I needed to know and do, to pass the N2 was the following-
 
 1. Learn around 6000 words.
-2. Finish at LEAST the grammar textbook Tobira.
-3. Listen to as much Japanese as possible.
-4. Read as much Japanese as possible.
-5. Finish several N2 mock tests.
+2. Learn around 1000 N2 Kanji.
+3. Finish at LEAST the grammar textbook Tobira.
+4. Listen to as much Japanese as possible.
+5. Read as much Japanese as possible.
+6. Finish several N2 mock tests.
 
-So I signed up. I had about 5 months to cram as much Japanese knowledge into my brain. I had my plan, I was ready.
+At this point I knew about 3500 words (from my core 6k deck), and already knew about ~1000 Kanji (from the kanji deck), and was about half way through genki two. When I had crunched the numbers what I needed to do was learn ~500 words a month, 2 grammar chapters a week, as much listening and reading as I could do every day.
 
-At this point I probably knew about 3500 words. As I ha
+So I signed up. I had about 5 months to cram as much Japanese knowledge into my brain. I had my plan, I was ready. Many of coworkers who had previously failed the JLPT N2 told me it was an impossible task to pass the N2 in such a short period of time and that added more fuel to the fire. I did what a called "rage studying" a level a zen that can only be achieved when trying to prove all the haters wrong.
 
 ## Stage 4 - Okinawa - the finalest frontier!?!? (1.5 - 2 years)
 

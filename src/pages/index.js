@@ -15,14 +15,20 @@ const HeaderText = styled.h1`
 `
 const TagsList = styled.ul`
   color: ${colors.main};
-  display: inline-flex;
-
+  display: flex;
+  margin: 0;
+  padding: 0;
 `
 const Tag = styled.li`
   list-style: none;
+  margin-right: 3px;
+  padding: 0 3px;
   border-radius: 4px;
   background-color: ${colors.main};
-  color: white;
+  /* color: white; */
+  a {
+    color: white;
+  }
 `
 
 const Blurb = styled.h2`
@@ -88,13 +94,14 @@ export default function Home({ data }) {
                   <Link to={node.fields.slug}>{title}</Link>
                 </BlogTitle>
                 <small>{node.frontmatter.date}</small>
-                <TagsList>
-                  {node.frontmatter.tags
-                    ? node.frontmatter.tags.map(tag => {
-                        return <Tag>{tag}</Tag>
-                      })
-                    : console.log("no tags")}
-                </TagsList>
+                {node.frontmatter.tags ? (
+                  <TagsList>
+                    {node.frontmatter.tags.map(tag => {
+                      return <Tag><Link to={`/tags/${tag}`}>{tag}</Link></Tag>
+                    })}
+                  </TagsList>
+                ) : null}
+
               </header>
               <section>
                 <BlogDescription

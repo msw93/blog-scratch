@@ -28,6 +28,12 @@ const TagsPage = ({
           ))}
         </ul>
       </div>
+      <Link to="/">
+        Let's go Home{" "}
+        <span role="img" aria-label="home">
+          🏠
+        </span>
+      </Link>
     </Layout>
   </div>
 )

@@ -20,14 +20,19 @@ const TagsList = styled.ul`
   padding: 0;
 `
 const Tag = styled.li`
+  position: relative;
   list-style: none;
   margin-right: 3px;
-  padding: 0 3px;
+  padding: 2px 6px;
   border-radius: 4px;
+  /* border: 1px solid grey; */
   background-color: ${colors.main};
+  font-weight: 200;
+  font-size: 0.9rem;
   /* color: white; */
   a {
     color: white;
+    text-decoration: none;
   }
 `
 

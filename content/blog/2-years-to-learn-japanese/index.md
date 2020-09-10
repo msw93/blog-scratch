@@ -2,6 +2,7 @@
 title: You can't become fluent in Japanese in under 2 years.
 date: "2020-08-30"
 description: "Japanese, a love story, how I failed and you probably will too."
+tags: ["humor", "japanese", "japan"]
 ---
 
 ## The beginning

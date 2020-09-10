@@ -28,7 +28,7 @@ const Tag = styled.li`
   /* border: 1px solid grey; */
   background-color: ${colors.main};
   font-weight: 200;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   /* color: white; */
   a {
     color: white;
@@ -73,7 +73,7 @@ const BlogTitle = styled.div`
   }
 `
 const BlogDescription = styled.p`
-  margin: 0px 0px 2rem;
+  margin: 0.5rem 0px 2rem 0px;
 `
 
 export default function Home({ data }) {

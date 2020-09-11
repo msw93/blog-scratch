@@ -5,6 +5,7 @@ import { colors } from "../style/theme"
 import SEO from "../components/Seo"
 import Bio from "../components/Bio"
 import Layout from "../components/Layout"
+import { DiscussionEmbed } from "disqus-react"
 
 const NavLinks = styled.ul`
   display: flex;
@@ -67,6 +68,10 @@ const BlogHeader = styled.div`
 const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark
   const { previous, next } = pageContext
+  const disqusConfig = {
+    shortname: "mikewblog",
+    config: { identifier: post.frontmatter.title },
+  }
 
   return (
     <Layout>
@@ -127,6 +132,8 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           </li>
         </NavLinks>
       </nav>
+
+      <DiscussionEmbed style={{ marginTop: `3rem`}} {...disqusConfig} />
     </Layout>
   )
 }

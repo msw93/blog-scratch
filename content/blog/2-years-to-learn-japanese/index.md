@@ -94,6 +94,10 @@ So I signed up. I had about 5 months to cram as much Japanese knowledge into my 
 
 These next 5 months studied probably the hardest I ever did in my life. Every single Japanese word that was spoken at work I listened like they whispering the answer to the JLPT test questions themselves. I was using Anki so much I started to dream in flash cards. I studied so much grammar that it would make my Elementary school french teacher proud. Basically **every waking moment was studying Japanese**.
 
+A couple things I found really interesting while studying were Nihongo Con Teppei - A Japanese Podcast for Intermediates, the second was Matt vs Japan's Youtube channel. Before you say "this asshole I knew it, filthy AJATTer" hear me out.
+
+When I first started listening to [Nihongo Con Teppei](http://teppeisensei.com/) I could hardly follow much of what he was saying, but if I listened and listened again, every subsequent listen I could pick up more and more. This was the one resource that I truly felt improved my Japanese more than anything else in terms of speaking and understanding casual Japanese. I can not recommend this podcast enough to low intermediates all the way to lower advanced learners. **THIS PODCAST HELPED ME COMMUNICATE IN JAPANESE MORE THAN ANYTHING ELSE**.
+
 ## Stage 4 - Okinawa - the finalest frontier!?!? (1.5 - 2 years)
 
 ## Stage 5 - 本当に最後があるのかよ!? This is taking forever.

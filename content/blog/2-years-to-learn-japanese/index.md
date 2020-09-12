@@ -104,11 +104,19 @@ And Teppei Sensei was saying the same thing, his perspective was almost the exac
 
 I didn't really change the way I studied after this because I had optimized my study schedule to destroy the JLPT N2 and 5 months later I did. I scored 112/160 a solid pass. I had done the impossible (well at the least the improbable). I did what the reddit senseis, the internet gurus, the online community told me what it took to become fluent. Can you guess if I was fluent? Short answer - HELL NO.
 
-Long answer - I could basic articles, I could hold basic conversations, I could finally start to understand the world around me, I could do almost everything on my own without a translator. I could in this Japanese world and function. But I sucked, I still had to concentrate with the force of Picollo firing a special beam cannon every time I listened to someone speak, I couldn't understand native Japanese people speaking to each other, it took me 10x longer to read something than a japanese person. This was fluent? Surely no one would consider this fluent? If I were to compare myself to a child I was about a 4 year old in terms of listening and about a 8 year old in terms of reading. Maybe not even that.
+Long answer - I could read basic articles, I could hold basic conversations, I could finally start to understand the world around me, I could do almost everything on my own without a translator. I could live in this Japanese world and function. But I still sucked, I still had to concentrate with the force of Picollo firing a special beam cannon every time I listened to someone speak, I couldn't understand native Japanese people speaking to each other, it took me 10x longer to read something than a japanese person. This was fluent? Surely no one would consider this fluent? If I were to compare myself to a child I was about a 4 year old in terms of listening and about a 8 year old in terms of reading. Maybe not even that.
 
 ## Stage 4 - Okinawa - the finalest frontier!?!? (1.5 - 2 years)
 
+After all this JLPT stuff. I was tired of my job and not sure about my life in Japan, whether I wanted to make this my home or not, and decided it was time to go home and regroup, but not before one final hurray - Okinawa.
+
+Up until this point I feel like I worked just about as hard as one can in a year and a halfs time. Even though my study tactics had not been perfect I had still put in the time and I think I had it figured out now. I needed to be in an environment with **no english**. So I decided the best place for my study-cation was the island of Ishigaki. 
+
+This time 100% I was going to be fluent or at least damn close. The new study plan was to listen to as much japanese as possible, sentence mining (creating anki cards from anime or tv shows), and reading at least an hour every day.
+
 ## Stage 5 - 本当に最後があるのかよ!? This is taking forever.
+
+I felt at the end of my time in Ishigaki that finally I was getting there, finally I could see measurable progress. I felt that maybe an additional 1 year there would of gotten me to some decent level of fluency.
 
 I like to think of learning Japanese as an RPG. Every step of the way, every level up you get new skills, new powers, new equipment, and god damn it is so awesome. But just like RPG's it takes longer to level up the higher you, you might even wondering if you are even gaining any experience points. 
 

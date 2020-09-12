@@ -90,7 +90,9 @@ After doing my extensive reddit research was I concluded that I needed to know a
 
 At this point I knew about 3500 words (from my core 6k deck), and already knew about ~1000 Kanji (from the kanji deck), and was about half way through genki two. When I had crunched the numbers what I needed to do was learn ~500 words a month, 2 grammar chapters a week, as much listening and reading as I could do every day.
 
-So I signed up. I had about 5 months to cram as much Japanese knowledge into my brain. I had my plan, I was ready. Many of coworkers who had previously failed the JLPT N2 told me it was an impossible task to pass the N2 in such a short period of time and that added more fuel to the fire. I did what a called "rage studying" a level a zen that can only be achieved when trying to prove all the haters wrong.
+So I signed up. I had about 5 months to cram as much Japanese knowledge into my brain. I had my plan, I was ready. Many of coworkers who had previously failed the JLPT N2 told me it was an impossible task to pass the N2 in such a short period of time and that added more fuel to the fire. I did what a called "rage studying" a level a zen that can only be achieved when trying to *"prove all the haters wrong"*.
+
+These next 5 months studied probably the hardest I ever did in my life. Every single Japanese word that was spoken at work I listened like they whispering the answer to the JLPT test questions themselves. I was using Anki so much I started to dream in flash cards. I studied so much grammar that it would make my Elementary school french teacher proud. Basically **every waking moment was studying Japanese**.
 
 ## Stage 4 - Okinawa - the finalest frontier!?!? (1.5 - 2 years)
 

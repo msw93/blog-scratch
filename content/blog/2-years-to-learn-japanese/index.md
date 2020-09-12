@@ -116,9 +116,13 @@ This time 100% I was going to be fluent or at least damn close. The new study pl
 
 ## Stage 5 - 本当に最後があるのかよ!? This is taking forever.
 
+To me being fluent is being able to have a conversation and not fear they throw a word in there you don't understand and you look like a moron. Fluent is being asked a question and being able to answer the question without rehearsing the line in your head a 1000 times. Fluent is being able to follow native conversations without straining so hard you think you are having a brain aneurism. Fluent is not stopping yourself before you say something because you have NO IDEA how to say or explain it. Fluent is not wondering if what you just said made any sense at all. The definition of Fluent is different for everyone, but for me it was all those things.
+
 I felt at the end of my time in Ishigaki that finally I was getting there, finally I could see measurable progress. I felt that maybe an additional 1 year there would of gotten me to some decent level of fluency.
 
-I like to think of learning Japanese as an RPG. Every step of the way, every level up you get new skills, new powers, new equipment, and god damn it is so awesome. But just like RPG's it takes longer to level up the higher you, you might even wondering if you are even gaining any experience points. 
+I like to think of learning Japanese as an RPG. Every step of the way, every level up you get new skills, new powers, new equipment, and god damn it is so awesome. But just like RPG's it takes longer to level up the higher you get, you might even wondering if you are even gaining any experience points. And of course the last boss - The fearsome chatter box old man at the onsen (hot spring), where you are butt-naked, defenseless, and you have no idea what the actual fuck this man is saying and you just smile and nod.
+
+Learning Japanese has been the most rewarding and life changing journey of my life, it had its highs and lows. The best part about learning Japanese is that Japanese people are so damn nice and encouraging they will cheer you on the whole way (with some exceptions) and you will feel so happy you started. The goal of this post in not dissuade anyone, but to help people set realistic expectations when starting and hopefully starting with the studying method that best aligns with their goals.
 
 In the end I was able to a lot of what I set out to do. I went on dates, I talked with the locals, I learned how to watch anime, I learned how to read the manga,  I learned the Japanese word for Spirit Bomb (元気玉くらえ!!!) but most importantly I learned you can't fucking be fluent in Japanese in under 2 years. But don't let that stop you from trying!
 

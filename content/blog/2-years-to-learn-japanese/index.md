@@ -5,9 +5,9 @@ description: "Japanese, a love story, how I failed and you probably will too."
 tags: ["humor", "japanese", "japan"]
 ---
 
-## The beginning
+*I worked my ass off, I did everything I thought was right. I tried as hard as I could, and I didn't end up where I wanted to be. This is the story of my 2 year struggle with Japanese.*
 
-I worked my ass off, I did everything I thought was right. I tried as hard as I could, and I didn't end up where I wanted to be. This is the story of my 2 year struggle with Japanese.
+## The beginning
 
 I just want to preface that this post is not about discouraging anyone from studying Japanese and/or a second language. I just want to dispel some myths and help people set realistic expectations for themselves.
 
@@ -17,7 +17,7 @@ At the time of writing this post it has been almost 3 years since I started stud
 
 I think the definition the fluency for everyone is different, but for myself fluency meant the above definition but also meant a lot more. It meant being able to do the the things a normal Japanese person could do. This means, watching TV, listening to radio, communicating with cashiers, understanding locals, being able to go on dates and just overall, ease of **understanding** and speaking Japanese.
 
-When I first moved to Japan I was a Snowboarding Instructor and lived up in Hokkaido in a ski town called Niseko and initially had zero desire to learn Japanese being totally surrounded by foreigners. After about a month or two of living there I started realizing how awesome Japanese sounded to me and how useful it would be to be able to speak and read Japanese. I thought how fucking awesome would it be if I could learn what a "Spirit Bomb" was in Japanese. And every time I looked at some mysterious Japanese text it motivated me to start learning.
+When I first moved to Japan I was a Snowboarding Instructor and lived up in Hokkaido in a ski town called Niseko and initially had zero desire to learn Japanese being totally surrounded by foreigners. After about a month or two of living there I started realizing how awesome Japanese sounded to me and how useful it would be to be able to speak and read Japanese. I thought how fucking awesome would it be if I could learn what a "Spirit Bomb" was in Japanese. And every time I looked at some mysterious Japanese text it motivated me to start learning. Of course as a young 25 year old male 2 things in particular motivated me, anime and girls.
 
 ![When I pooped, EVEN the toilets were trying to motivate me.](./japanese-toilet.jpg)
 
@@ -120,10 +120,16 @@ To me being fluent is being able to have a conversation and not fear they throw 
 
 I felt at the end of my time in Ishigaki that finally I was getting there, finally I could see measurable progress. I felt that maybe an additional 1 year there would of gotten me to some decent level of fluency.
 
-I like to think of learning Japanese as an RPG. Every step of the way, every level up you get new skills, new powers, new equipment, and god damn it is so awesome. But just like RPG's it takes longer to level up the higher you get, you might even wondering if you are even gaining any experience points. And of course the last boss - The fearsome chatter box old man at the onsen (hot spring), where you are butt-naked, defenseless, and you have no idea what the actual fuck this man is saying and you just smile and nod.
+I like to think of learning Japanese as an RPG. Every step of the way, every level up you get new skills, new powers, new equipment, and god damn it is so awesome. But just like RPG's it takes longer to level up the higher you get, you might even wondering if you are even gaining any experience points. And of course the last boss - The fearsome chatter box old man at the onsen (hot spring), where you are butt-naked, defenseless, and you have no idea what the actual fuck this man is saying and you just smile and nod. My goal when starting Japanese was to smash the indigo plateau, not get to level 100. In reality I just barely squeaked by Brock with my shitty over-leveled Charmander.
 
-Learning Japanese has been the most rewarding and life changing journey of my life, it had its highs and lows. The best part about learning Japanese is that Japanese people are so damn nice and encouraging they will cheer you on the whole way (with some exceptions) and you will feel so happy you started. The goal of this post in not dissuade anyone, but to help people set realistic expectations when starting and hopefully starting with the studying method that best aligns with their goals.
+Learning Japanese has been one of the most rewarding and life changing journeys of my life, it had its highs and lows. The best part about learning Japanese is that Japanese people are so damn nice and encouraging they will cheer you on the whole way (with some exceptions) and you will feel so happy you started.
 
-In the end I was able to a lot of what I set out to do. I went on dates, I talked with the locals, I learned how to watch anime, I learned how to read the manga,  I learned the Japanese word for Spirit Bomb (元気玉くらえ!!!) but most importantly I learned you can't fucking be fluent in Japanese in under 2 years. But don't let that stop you from trying!
+The goal of this post in not dissuade anyone from starting, but to help people set realistic expectations when starting and hopefully choosing the studying method that best aligns with their goals.
+
+I had done 1000's of hours of studying, I tried my best, I really did everything I possibly could to get to that goal of fluency in under 2 years but I felt disappointed at the end. I had failed. But truthful I think the only thing I failed at was picking unreasonable goal at the start.
+
+In the end I was able to a lot of what I set out to do. I went on dates, I talked with the locals, I learned how to watch anime, I learned how to read manga, I learned the Japanese word for Spirit Bomb (元気玉くらえ!!!) but most importantly I learned you can't fucking be fluent in Japanese in under 2 years. But don't let that stop you from trying!
 
 ![Weird japanese plants](./plants.jpg)
+
+Let me know about your Japanese story! Did you become super fluent in 2 years? Do I just suck? Let me know in the comments below.

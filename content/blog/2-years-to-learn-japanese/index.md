@@ -126,7 +126,7 @@ Learning Japanese has been one of the most rewarding and life changing journeys 
 
 The goal of this post in not dissuade anyone from starting, but to help people set realistic expectations when starting and hopefully choosing the studying method that best aligns with their goals.
 
-I had done 1000's of hours of studying, I tried my best, I really did everything I possibly could to get to that goal of fluency in under 2 years but I felt disappointed at the end. I had failed. But truthful I think the only thing I failed at was picking unreasonable goal at the start.
+I had done 1000's of hours of studying, I tried my best, I really did everything I possibly could to get to that goal of fluency in under 2 years but I felt disappointed at the end. I had failed. But truthful I think the only thing I failed at was picking a reasonable goal at the start. After all that studying, trying every resource in the book, doing everything the best way I could, I got no where near fluent in two years. I think that my case is not the exception but more close to the rule. To become fluent in language it takes time, not apps, not textbooks, just a ton of time.
 
 In the end I was able to a lot of what I set out to do. I went on dates, I talked with the locals, I learned how to watch anime, I learned how to read manga, I learned the Japanese word for Spirit Bomb (元気玉くらえ!!!) but most importantly I learned you can't fucking be fluent in Japanese in under 2 years. But don't let that stop you from trying!
 

@@ -15,7 +15,7 @@ const HeaderText = styled.h1`
   line-height: 4.4rem;
 `
 const TagsList = styled.ul`
-  color: ${colors.main};
+  /* color: ${colors.main}; */
   display: flex;
   margin: 0;
   padding: 0;
@@ -66,7 +66,7 @@ const BlogTitle = styled.div`
   }
   a:visited,
   a:link {
-    color: black;
+    /* color: black; */
   }
   a:hover {
     background-size: 4px 50px;
@@ -76,6 +76,11 @@ const BlogTitle = styled.div`
 const BlogDescription = styled.p`
   margin: 0.5rem 0px 2rem 0px;
 `
+const StyledToggle = styled(Toggler)`
+  margin: 1rem;
+  float: right;
+  /* display: none; */
+` 
 
 export default function Home({ data }) {
   const posts = data.allMarkdownRemark.edges
@@ -85,8 +90,8 @@ export default function Home({ data }) {
     <div>
       <Layout>
         <SEO title="All Blogs" />
+        <StyledToggle />
         <HeaderText>Mike W Blog</HeaderText>
-        <Toggler />
         <Blurb>
           Computers, Japan, Language learning or anything else I find funny or
           interesting.

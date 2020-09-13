@@ -5,6 +5,7 @@ import { colors } from "../style/theme"
 import SEO from "../components/Seo"
 import Bio from "../components/Bio"
 import Layout from "../components/Layout"
+import Toggler from '../components/ThemeToggle';
 import { DiscussionEmbed } from "disqus-react"
 
 const NavLinks = styled.ul`
@@ -22,7 +23,7 @@ const BlogPost = styled.article`
     font-style: italic;
     padding: 0.5em 10px;
     border-left: 0.32rem solid ${colors.main};
-    background: #f9f9f9;
+    /* background: #f9f9f9; */
   }
   a {
     background: linear-gradient(
@@ -38,7 +39,7 @@ const BlogPost = styled.article`
   }
   a:visited,
   a:link {
-    color: black;
+    /* color: black; */
   }
   a:hover {
     background-size: 4px 50px;
@@ -74,7 +75,7 @@ const BlogName = styled.h3`
   a:visited,
   a:link,
   a:active {
-    color: black;
+    /* color: black; */
     text-decoration: none;
   }
 `
@@ -84,6 +85,10 @@ const BlogHeader = styled.div`
     margin: 0rem 0rem;
   }
 `
+const StyledToggle = styled(Toggler)`
+  margin: 1rem;
+  float: right;
+` 
 
 const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark
@@ -99,6 +104,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
+      <StyledToggle />
       <BlogName>
         <Link to="/">Mike W's Blog</Link>
       </BlogName>

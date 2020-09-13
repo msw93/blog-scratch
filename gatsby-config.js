@@ -26,7 +26,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-preact`,
-    'gatsby-plugin-dark-mode',
+    `gatsby-plugin-dark-mode`,
      {
       resolve: `gatsby-transformer-remark`,
       options: {

@@ -22,11 +22,32 @@ const Layout = ({ children }) => {
             padding: 0;
             margin: 0;
             font-family: "Open Sans", sans-serif;
+            a {
+              color: #000000;
+            }
           }
           body.dark {
             -webkit-font-smoothing: antialiased;
-            background-color: darkslategray;
+            background-color: #121212;
+            color: white;
+            a {
+              color: white;
+            }
+            header li a {
+              color: black;
+              font-weight: 400;
+            }
+            blockquote {
+              background-color: #383838;
+            }
+            figure {
+              filter: brightness(.8) contrast(1.2);
+            }
           }
+          p {
+            opacity: 0.80;
+          }
+
         `}
       />
       {children}

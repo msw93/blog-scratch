@@ -9,7 +9,7 @@ import { colors } from "../style/theme.js"
 const HeaderText = styled.h1`
   font-size: 4rem;
   font-weight: 900;
-  margin: 0rem auto;
+  margin: 0px auto;
   color: ${colors.main};
   line-height: 4.4rem;
 `

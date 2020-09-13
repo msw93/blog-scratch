@@ -21,19 +21,39 @@ const BlogPost = styled.article`
   blockquote {
     font-style: italic;
     padding: 0.5em 10px;
-    border-left: 0.32rem solid #47b8d4;
+    border-left: 0.32rem solid ${colors.main};
     background: #f9f9f9;
   }
-  h1 {
+  a {
+    background: linear-gradient(
+      to bottom,
+      ${colors.main} 0%,
+      ${colors.main} 100%
+    );
+    background-position: 0% 100%;
+    background-repeat: repeat-x;
+    background-size: 4px 3px;
+    text-decoration: none;
+    transition: background-size 0.3s;
+  }
+  a:visited,
+  a:link {
+    color: black;
+  }
+  a:hover {
+    background-size: 4px 50px;
+    /* color: white; */
+  }
+  h1, h2, h3, h4, h5 {
     color: ${colors.main};
     margin: 0;
   }
   p {
     margin: 1rem 0;
   }
-  b {
+  strong {
     color: ${colors.main};
-  }
+  } 
   /* figure {
     margin: 0rem 0;
   } */
@@ -133,7 +153,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         </NavLinks>
       </nav>
 
-      <DiscussionEmbed style={{ marginTop: `3rem`}} {...disqusConfig} />
+      <DiscussionEmbed style={{ marginTop: `3rem` }} {...disqusConfig} />
     </Layout>
   )
 }

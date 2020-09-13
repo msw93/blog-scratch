@@ -5,7 +5,7 @@ import styled from "@emotion/styled"
 require("typeface-open-sans")
 
 const Wrapper = styled.div`
-  ${'' /* border: 2px solid blue; */}
+  ${"" /* border: 2px solid blue; */}
   max-width: 850px;
   margin: 0 auto;
   padding: 1rem;
@@ -17,11 +17,15 @@ const Layout = ({ children }) => {
     <Wrapper>
       <Global
         styles={css`
-
-           html, body {
-            padding:0;
+          html,
+          body {
+            padding: 0;
             margin: 0;
-            font-family: 'Open Sans', sans-serif;
+            font-family: "Open Sans", sans-serif;
+          }
+          body.dark {
+            -webkit-font-smoothing: antialiased;
+            background-color: darkslategray;
           }
         `}
       />

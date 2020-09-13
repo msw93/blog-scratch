@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
+import Toggler from '../components/ThemeToggle';
 import Bio from "../components/Bio"
 import Layout from "../components/Layout"
 import SEO from "../components/Seo"
@@ -85,6 +86,7 @@ export default function Home({ data }) {
       <Layout>
         <SEO title="All Blogs" />
         <HeaderText>Mike W Blog</HeaderText>
+        <Toggler />
         <Blurb>
           Computers, Japan, Language learning or anything else I find funny or
           interesting.
@@ -102,11 +104,14 @@ export default function Home({ data }) {
                 {node.frontmatter.tags ? (
                   <TagsList>
                     {node.frontmatter.tags.map(tag => {
-                      return <Tag><Link to={`/tags/${tag}`}>{tag}</Link></Tag>
+                      return (
+                        <Tag>
+                          <Link to={`/tags/${tag}`}>{tag}</Link>
+                        </Tag>
+                      )
                     })}
                   </TagsList>
                 ) : null}
-
               </header>
               <section>
                 <BlogDescription

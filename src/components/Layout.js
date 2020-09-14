@@ -41,7 +41,7 @@ const Layout = ({ children }) => {
               background-color: #383838;
             }
             figure, img {
-              filter: brightness(.8) contrast(1.2);
+              filter: brightness(.9) contrast(1.1);
             }
           }
           p {

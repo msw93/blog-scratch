@@ -18,7 +18,9 @@ const NavLinks = styled.ul`
     color: ${colors.main};
   }
 `
-const BlogPost = styled.article`
+export const BlogPost = styled.article``
+
+export const BlogContent = styled.article`
   blockquote {
     font-style: italic;
     padding: 0.5em 10px;
@@ -80,6 +82,9 @@ const BlogName = styled.h3`
   }
 `
 const BlogHeader = styled.div`
+  h1 {
+    margin-bottom: 0;
+  }
   p {
     font-style: italic;
     margin: 0rem 0rem;
@@ -122,11 +127,13 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           }}
         />
         <br />
+        <BlogContent>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
 
         <hr
           style={{ border: `${colors.main} solid 1px`, margin: `30px 0px` }}
         />
+        </BlogContent>
         <footer>
           <Bio />
         </footer>

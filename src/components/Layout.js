@@ -1,6 +1,7 @@
 import React from "react"
 import { Global, css } from "@emotion/core"
 import styled from "@emotion/styled"
+import { BlogContent } from "../templates/blog-post"
 
 require("typeface-open-sans")
 
@@ -37,17 +38,25 @@ const Layout = ({ children }) => {
               color: black;
               font-weight: 400;
             }
-            blockquote {
-              background-color: #383838;
+            ${BlogContent} {
+              a,
+              li,
+              p {
+                color: rgba(255, 255, 255, 0.85);
+              }
+              blockquote {
+                background-color: #383838;
+              }
+              figure,
+              img {
+                filter: brightness(0.9) contrast(1.1);
+              }
             }
-            figure, img {
-              filter: brightness(.9) contrast(1.1);
-            }
-          }
-          p {
-            opacity: 0.80;
           }
 
+          strong {
+            opacity: 1;
+          }
         `}
       />
       {children}

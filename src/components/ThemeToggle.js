@@ -24,11 +24,12 @@ const Slider = styled.span`
   ::before {
     position: absolute;
     content: "";
-    height: 20px;
-    width: 20px;
-    left: 2px;
-    bottom: 2px;
-    background-color: white;
+    height: 18px;
+    width: 18px;
+    left: 3px;
+    bottom: 3px;
+    background-color:  #ffed1e;
+    /* background: radial-gradient(#fceabb, #f8b500); */
     -webkit-transition: 0.4s;
     transition: 0.4s;
     border-radius: 50%;
@@ -42,6 +43,9 @@ const Checkbox = styled.input`
     -webkit-transform: translateX(21px);
     -ms-transform: translateX(21px);
     transform: translateX(21px);
+    /* background-color: #383838; */
+    box-shadow: inset 6px -4px #f9f9f9;
+    background: ${colors.main};
   }
 `
 

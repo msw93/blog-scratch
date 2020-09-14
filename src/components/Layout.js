@@ -40,7 +40,7 @@ const Layout = ({ children }) => {
             blockquote {
               background-color: #383838;
             }
-            figure {
+            figure, img {
               filter: brightness(.8) contrast(1.2);
             }
           }

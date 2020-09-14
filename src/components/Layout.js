@@ -27,6 +27,7 @@ const Layout = ({ children }) => {
               color: #000000;
             }
           }
+
           body.dark {
             -webkit-font-smoothing: antialiased;
             background-color: #121212;
@@ -38,6 +39,10 @@ const Layout = ({ children }) => {
               color: black;
               font-weight: 400;
             }
+            figure,
+            img {
+              filter: brightness(0.9) contrast(1.1);
+            }
             ${BlogContent} {
               a,
               li,
@@ -47,15 +52,7 @@ const Layout = ({ children }) => {
               blockquote {
                 background-color: #383838;
               }
-              figure,
-              img {
-                filter: brightness(0.9) contrast(1.1);
-              }
             }
-          }
-
-          strong {
-            opacity: 1;
           }
         `}
       />

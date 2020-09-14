@@ -5,7 +5,7 @@ import { colors } from "../style/theme"
 import SEO from "../components/Seo"
 import Bio from "../components/Bio"
 import Layout from "../components/Layout"
-import Toggler from '../components/ThemeToggle';
+import Toggler from "../components/ThemeToggle"
 import { DiscussionEmbed } from "disqus-react"
 
 const NavLinks = styled.ul`
@@ -25,7 +25,7 @@ export const BlogContent = styled.article`
     font-style: italic;
     padding: 0.5em 10px;
     border-left: 0.32rem solid ${colors.main};
-    /* background: #f9f9f9; */
+    background: #f9f9f9;
   }
   a {
     background: linear-gradient(
@@ -47,7 +47,11 @@ export const BlogContent = styled.article`
     background-size: 4px 50px;
     /* color: white; */
   }
-  h1, h2, h3, h4, h5 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
     color: ${colors.main};
     margin: 0;
   }
@@ -56,7 +60,7 @@ export const BlogContent = styled.article`
   }
   strong {
     color: ${colors.main};
-  } 
+  }
   /* figure {
     margin: 0rem 0;
   } */
@@ -93,7 +97,7 @@ const BlogHeader = styled.div`
 const StyledToggle = styled(Toggler)`
   margin: 1rem;
   float: right;
-` 
+`
 
 const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark
@@ -128,11 +132,11 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         />
         <br />
         <BlogContent>
-        <section dangerouslySetInnerHTML={{ __html: post.html }} />
+          <section dangerouslySetInnerHTML={{ __html: post.html }} />
 
-        <hr
-          style={{ border: `${colors.main} solid 1px`, margin: `30px 0px` }}
-        />
+          <hr
+            style={{ border: `${colors.main} solid 1px`, margin: `30px 0px` }}
+          />
         </BlogContent>
         <footer>
           <Bio />

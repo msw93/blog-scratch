@@ -6,6 +6,7 @@ import Layout from "../components/Layout"
 import SEO from "../components/Seo"
 import styled from "@emotion/styled"
 import { colors } from "../style/theme.js"
+import { kebabCase } from "lodash"
 
 const HeaderText = styled.h1`
   font-size: 4rem;
@@ -30,6 +31,7 @@ const Tag = styled.li`
   background-color: ${colors.main};
   font-weight: 200;
   font-size: 0.8rem;
+  /* opacity: 0.7; */
   /* color: white; */
   a {
     color: white;
@@ -111,7 +113,7 @@ export default function Home({ data }) {
                     {node.frontmatter.tags.map(tag => {
                       return (
                         <Tag>
-                          <Link to={`/tags/${tag}`}>{tag}</Link>
+                          <Link to={`/tags/${kebabCase(tag)}`}>{tag}</Link>
                         </Tag>
                       )
                     })}

@@ -43,6 +43,9 @@ const Layout = ({ children }) => {
             img {
               filter: brightness(0.9) contrast(1.1);
             }
+            figcaption {
+              color: rgba(255, 255, 255, 0.6);
+            }
             ${BlogContent} {
               a,
               li,

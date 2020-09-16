@@ -62,6 +62,16 @@ export const BlogContent = styled.article`
     color: ${colors.main};
   }
   /* figure {
+    max-height: 90vh;
+    max-width: 100vw;
+  }
+  img{
+    max-height: 90vh;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+  } */
+  /* figure {
     margin: 0rem 0;
   } */
   figcaption {

@@ -113,7 +113,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark
   const { previous, next } = pageContext
   const disqusConfig = {
-    shortname: "mikewblog",
+    shortname: process.env.GATSBY_DISQUS_NAME,
     config: { identifier: post.frontmatter.title },
   }
 

@@ -15,9 +15,11 @@ At the time of writing this post it has been almost 3 years since I started stud
 
 > (of a person) able to express oneself easily and articulately.
 
-I think the definition the fluency for everyone is different, but for myself, fluency meant the above definition but also meant a lot more. It meant being able to do the the things a normal Japanese person could do, like watching TV, listening to radio, communicating with cashiers, understanding locals, being able to go on dates and just overall, ease of **understanding** and speaking Japanese.
+I think the definition the fluency for everyone is different, but for myself, fluency meant the above definition but it also meant a lot more. It meant being able to do the the things a normal Japanese person could do, like watching TV, listening to radio, communicating with cashiers, understanding locals, being able to go on dates and just overall, ease of **understanding** and speaking Japanese.
 
-When I first moved to Japan I was a Snowboarding Instructor and lived up in Hokkaido in a little ski town called Niseko and initially had zero desire to learn Japanese, as I was totally surrounded by foreigners. After about a month or two of living there I started realizing how awesome Japanese sounded to me and how useful it would be to be able to speak and read Japanese. I also thought about how fucking awesome would it be if I could learn what a "Spirit Bomb" was in Japanese. And every time I looked at some mysterious Japanese text it motivated me to start learning. Of course it goes without saying as a young 25 year old, immature male 2 things in particular motivated me, anime and girls.
+When I first moved to Japan I was a Snowboarding Instructor and lived up in Hokkaido in a little ski town called Niseko and initially had zero desire to learn Japanese, as I was totally surrounded by foreigners. I had the typical "why do I need to learn a second language if I can speak English" attitude.
+
+ After about a month or two of living there I started realizing how awesome Japanese sounded to me and how useful it would be to be able to speak and read Japanese. I also thought about how cool would it be if I could learn what a "Spirit Bomb" was in Japanese. And every time I looked at some mysterious Japanese text it motivated me to start learning. And of course it goes without saying as a young 25 year old, immature male 2 things in particular motivated me, anime and girls.
 
 ![When I pooped, EVEN the toilets were trying to motivate me.](./japanese-toilet.jpg)
 

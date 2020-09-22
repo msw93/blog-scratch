@@ -79,7 +79,11 @@ I would also try to do about 2 Italki lessons a week. I felt with all of this I 
 
 I would say the total active study time each day was about 2~3 hours each day, I was also doing my best to listen while at school, and consume Japanese media in japanese as best as I could. I did my best to study but I also did a lot of traveling and exploring and having a lot of fun.
 
-This continued on for about 9 months and I was definitely making progress I was getting better I could start to have conversations (1 hour conversations with my Italki teachers), I could begin to understand some manga's, I was able to start to function in Japanese society. But there was still so much I couldn't do. I couldn't buy a car or get my license without a translator, I couldn't understand anything in Keigo (polite Japanese speech), I couldn't understand 95 percent of what the kids were saying, I couldn't even answer the most basic questions asked by the villagers, I would just smile and nod and walk away awkwardly.In hindsight I should of もう一回ください-ed (one more time please) to death.
+![Doing cool things! But hard to study while the oxygen is thin](./fuji-summit.png)
+
+This continued on for about 9 months and I was definitely making progress I was getting better I could start to have conversations (1 hour conversations with my Italki teachers), I could begin to understand some manga, I was finally beginning to be able to function in Japanese society. **But there was still so much I couldn't do.**
+
+I couldn't buy a car or get my license without a translator, I couldn't understand anything in Keigo (polite Japanese speech), I couldn't understand 95 percent of what the kids were saying, I couldn't even answer the most basic questions asked by the villagers, I would just smile and nod and walk away awkwardly. In hindsight I should of もう一回ください-ed (one more time please) to death.
 
 But despite this all of my coworkers were really astounded by how hard I was studying and how fast I was progressing. My reading ability was quickly exceeding my listening and speaking ability. Everyone was impressed, except for myself.
 

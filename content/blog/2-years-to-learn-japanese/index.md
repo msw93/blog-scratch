@@ -95,7 +95,7 @@ I wasn't fluent, I didn't feel fluent at all. I still struggled at so many thing
 
 The last thing that some of the online community claimed was equal to a basic fluency or even a business proficiency was - The Japanese Language Proficiency Test N2 (or JLPT N2 for short). For those of you who don't know it is the second hardest japanese language test in Japan for non-native speakers. I had been studying just about a year and most people claimed that getting to N2 level in a year to a year and a half was *possible* but very difficult. This was the last path (or shortcut) that I knew of, to become fluent in Japanese.
 
-After doing my extensive reddit research was I concluded that I needed to know and do, to pass the N2 was the following-
+After doing my extensive reddit research what I concluded that I needed to know and do, to pass the N2 was the following-
 
 1. Learn around 6000 words.
 2. Learn around 1000 N2 Kanji.
@@ -104,13 +104,15 @@ After doing my extensive reddit research was I concluded that I needed to know a
 5. Read as much Japanese as possible.
 6. Finish several N2 mock tests.
 
-At this point I knew about 3500 words (from my core 6k deck), and already knew about ~1000 Kanji (from the kanji deck), and was about half way through genki two. When I had crunched the numbers what I needed to do was learn ~500 words a month, 2 grammar chapters a week, as much listening and reading as I could do every day.
+At this point I knew about 3500 words (from my core 6k deck), and already knew about ~1000 Kanji (from the kanji deck), and was about half way through genki two. When I had crunched the numbers what I needed to do was learn ~500 words a month, 2 grammar chapters a week, and do as much listening and reading as I could do every day. If I did all these things for 5 months, *maybe* I could pass.
 
-So I signed up. I had about 5 months to cram as much Japanese knowledge into my brain. I had my plan, I was ready. Many of coworkers who had previously failed the JLPT N2 told me it was an impossible task to pass the N2 in such a short period of time and that added more fuel to the fire. I did what a called "rage studying" a level a zen that can only be achieved when trying to *"prove all the haters wrong"*.
+So after a week or two of debating doing the N3 for a very likely pass or taking the N2 for a likely fail but at least have some sort of recognized fluency certification, I wasn't sure what I wanted to do. But I had a coworker tell me that I would definitely fail if I took the N2 because he had failed it. For some reason a lot of Gaijin in Japan have this weird insecurity about their Japanese, and that their Japanese is better than everyone elses. It's really weird. Because my moronic coworker told me it was impossible, I HAD to prove that asshole wrong.
 
-These next 5 months studied probably the hardest I ever did in my life. Every single Japanese word that was spoken at work I listened like they whispering the answer to the JLPT test questions themselves. I was using Anki so much I started to dream in flash cards. I studied so much grammar that it would make my Elementary school french teacher proud. Basically **every waking moment was studying Japanese**.
+<!-- So I signed up for the N2. I had about 5 months to cram as much Japanese knowledge into my brain. I had my plan, I was ready. Many of coworkers who had previously failed the JLPT N2 told me it was an impossible task to pass the N2 in such a short period of time and that added more fuel to the fire. I did what a called "rage studying" a level a zen that can only be achieved when trying to *"prove all the haters wrong"*. -->
 
-A couple of interesting resources I found while studying were Nihongo Con Teppei - A Japanese Podcast for Intermediates, the second was Matt vs Japan's Youtube channel. Before you say "this asshole I knew it, filthy AJATTer" hear me out.
+These next 5 months, I studied probably the hardest I ever did in my life. Every single Japanese word that was spoken at work I listened like they whispering the answer to the JLPT test questions themselves. I was using Anki so much I started to dream in flash cards. I was addicted to the sweet feeling of the green pie graph in my anki statistics slowly filling up. I studied so much grammar that it would make my Elementary school grammar nazi french teacher proud. Basically **every waking moment was studying Japanese**.
+
+A couple of interesting japanese study resources I found while studying were Nihongo Con Teppei - A Japanese Podcast for Intermediates, and the second was Matt vs Japan's Youtube channel. Before you say "this asshole I knew it, filthy AJATTer" hear me out.
 
 When I first started listening to [Nihongo Con Teppei](http://teppeisensei.com/) I could hardly follow much of what he was saying, but if I listened and listened again, every subsequent listen I could pick up more and more. This was the one resource that I truly felt improved my Japanese more than anything else in terms of speaking and understanding casual Japanese. I can not recommend this podcast enough to low intermediates all the way to lower advanced learners. **THIS PODCAST HELPED ME COMMUNICATE IN JAPANESE MORE THAN ANYTHING ELSE**. In terms of time spent listening to real life results with my Japanese, nothing else that I used to study compares. ありがとうございました　鉄平先生！
 

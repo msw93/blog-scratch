@@ -85,13 +85,15 @@ This continued on for about 9 months and I was definitely making progress I was 
 
 I couldn't buy a car or get my license without a translator, I couldn't understand anything in Keigo (polite Japanese speech), I couldn't understand 95 percent of what the kids were saying, I couldn't even answer the most basic questions asked by the villagers, I would just smile and nod and walk away awkwardly. In hindsight I should of もう一回ください-ed (one more time please) to death.
 
-But despite this all of my coworkers were really astounded by how hard I was studying and how fast I was progressing. My reading ability was quickly exceeding my listening and speaking ability. Everyone was impressed, except for myself.
+But despite this all of my coworkers were really astounded by how hard I was studying and how fast I was progressing. My reading ability was quickly exceeding my listening and speaking ability. Everyone around me was impressed, except for myself.
 
-I felt a 3 year old, I couldn't express the ideas I wanted to express, I couldn't understand basic conversations between native speakers. If I had to say what my japanese level was at the time I would say my speaking and understanding level was that of a toddler, probably even worst because toddlers pitch accents and pronunciation are really fucking awesome.
+I felt a 3 year old, I couldn't express the ideas I wanted to express, I couldn't understand basic conversations between native speakers. If I had to say what my japanese level was at the time I would say my speaking and understanding level was that of a toddler, probably even worst because toddlers pitch accents and pronunciation are really awesome.
 
 ## Stage 3 - JLPT N2 - the final frontier??? (1 - 1.5 years)
 
-I wasn't fluent, I didn't feel fluent at all. I still struggled at so many things, but I was making good progress with the reddit senseis study plan and I was sticking to my study schedule, but it was time to get serious. It has been a year and enough is enough time to get fluent, the last thing that some of the online community claimed was a basic fluency or even a business proficiency - The Japanese Language Proficiency Test N2. I had been studying just about a year and most people claimed that getting to N2 level in a year to a year and a half was *possible* but very difficult. This was the last way I knew of to become fluent in Japanese.
+I wasn't fluent, I didn't feel fluent at all. I still struggled at so many things, but I was making good progress with the reddit sensei's study plan and I was sticking to my study schedule, but it was time to get serious. It has been a year and enough is enough, time to become get fluent.
+
+The last thing that some of the online community claimed was equal to a basic fluency or even a business proficiency was - The Japanese Language Proficiency Test N2 (or JLPT N2 for short). For those of you who don't know it is the second hardest japanese language test in Japan for non-native speakers. I had been studying just about a year and most people claimed that getting to N2 level in a year to a year and a half was *possible* but very difficult. This was the last path (or shortcut) that I knew of, to become fluent in Japanese.
 
 After doing my extensive reddit research was I concluded that I needed to know and do, to pass the N2 was the following-
 

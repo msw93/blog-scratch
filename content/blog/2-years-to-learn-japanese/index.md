@@ -87,7 +87,7 @@ I couldn't buy a car or get my license without a translator, I couldn't understa
 
 But despite this all of my coworkers were really astounded by how hard I was studying and how fast I was progressing. My reading ability was quickly exceeding my listening and speaking ability. Everyone was impressed, except for myself.
 
-I felt a 3 year old, I couldn't express the ideas I wanted to express, I couldn't understand basic conversations between native speakers. I would say my speaking and understanding level was that of a toddler, probably even worst because toddlers pitch accents and pronunciation are really fucking awesome.
+I felt a 3 year old, I couldn't express the ideas I wanted to express, I couldn't understand basic conversations between native speakers. If I had to say what my japanese level was at the time I would say my speaking and understanding level was that of a toddler, probably even worst because toddlers pitch accents and pronunciation are really fucking awesome.
 
 ## Stage 3 - JLPT N2 - the final frontier??? (1 - 1.5 years)
 

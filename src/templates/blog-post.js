@@ -179,7 +179,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           </li>
         </NavLinks>
       </nav>
-    {console.log(disqusConfig.shortname)}
+   
       <DiscussionEmbed shortname={disqusConfig.shortname} config={disqusConfig.config} style={{ marginTop: `3rem` }} />
     </Layout>
   )

@@ -120,7 +120,7 @@ The second resource is Matt's channel, and up until this point I had laughed in 
 
 And Teppei Sensei was saying the same thing, his perspective was almost the exact same at Matt's. A very simple message "you want to be fluent in Japanese?" The answer "Just listen". That's it. So simple but it blew my fucking mind. These were people who were legit fluent in their target language, people who dedicated a big portion of their lives to language learning. Here I was practicing Kanji, reading manga, doing grammar exercises, listening to people explain Japanese concepts in English. But I had neglected the most important thing - Listening to Japanese.
 
-I didn't really change the way I studied after this because I had optimized my study schedule to destroy the JLPT N2 and 5 months later I did. I scored 112/160 a solid pass. I had done the impossible (well at the least the improbable). I did what the Reddit senseis, the internet gurus, the online community told me what it took to become fluent. Can you guess if I was fluent? Short answer - nope.
+I didn't really change the way I studied after this because I had optimized my study schedule to destroy the JLPT N2 and 5 months later I did. I scored 112/160 a solid pass. I had done the impossible (well at the least the improbable). I did what the Reddit Senseis, the internet gurus, the online community told me what it took to become fluent. Can you guess if I was fluent? Short answer - nope.
 
 Long answer - I could read basic articles, I could hold basic conversations, I could finally start to understand the world around me, I could do almost everything on my own without a translator. I could live in this Japanese world and function. But I still sucked, I still had to concentrate with the force of Piccolo firing a special beam cannon every time I listened to someone speak, I couldn't understand native Japanese people speaking to each other, it took me 10x longer to read something than a Japanese person. This was fluent? Surely no one would consider this fluent? If I were to compare myself to a child I was about a 4-year-old in terms of listening and about a 8-year-old in terms of reading. Maybe not even that.
 
@@ -156,9 +156,15 @@ I think the answer to that question now is a little bit of both.
 
 ## Stage 5 - 本当に最後があるのかよ!? This is taking forever.
 
-I felt at the end of my time in Ishigaki that finally, I was getting there. Finally, I could see measurable progress. I felt that maybe an additional 1 year living there would have gotten me to some decent level of fluency where I could honestly say that I was fluent without feeling like a fraud.
+I felt at the end of my time in Ishigaki that finally, I was getting there. Finally, I could see measurable progress. I felt that maybe an additional 1 year of living there would have gotten me to some decent level of fluency where I could honestly say that I was fluent without feeling like a fraud.
 
-I like to think of learning Japanese as an RPG. Every step of the way, every level up you get new skills, new powers, new equipment, and god damn it is so awesome. But just like RPG's, it takes longer to level up the higher you get, you might even wondering if you are even gaining any experience points. And of course, the last boss - The fearsome chatterbox old man at the onsen (hot spring), where you are butt-naked, defenseless, and you have no idea what the actual fuck this man is saying and you just smile and nod. My goal when starting Japanese was to beat the indigo plateau, not get all the way to level 100. In reality, I just barely squeaked by Brock with my shitty over-leveled Charmander.
+I like to think of learning Japanese is like an RPG. Every step of the way, every level up, you get new skills, new powers, new equipment, and god damn it is so awesome. But just like RPG's, it takes longer to level up the higher you get, you might even wondering if you are even gaining any experience points. And of course, there is the last boss - The fearsome chatterbox old man at the onsen (hot spring), where you are butt-naked, defenseless, and you have no idea what the actual fuck this man is saying and you just smile and nod. My goal when starting Japanese was to beat the indigo plateau, not get all the way to level 100. In reality, I just barely squeaked by Brock with my shitty over-leveled Charmander.
+
+So here is my list of cold hard Japanese learning truths that I learned on this long journey.
+
+1. Apps, textbooks, games, tests etc are not going to get you fluent or even close. They can help you along the way but no one ever became fluent in a language with just apps but lots of people become fluent without them.
+2. Don't believe anyone who gives you those ridiculously short estimates about how long it takes to learn Japanese.
+3. Only one thing will make you fluent, time.
 
 Learning Japanese has been one of the most rewarding and life-changing journeys of my life, it had its highs and lows. The best part about learning Japanese is that Japanese people are so damn nice and encouraging they will cheer you on the whole way (with some exceptions) and you will feel so happy you started.
 

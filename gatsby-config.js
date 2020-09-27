@@ -20,6 +20,15 @@ module.exports = {
   },
 
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-111111111-1",
+        // this option places the tracking script into the head of the DOM
+        head: true,
+        // other options
+      },
+    },
     `gatsby-plugin-emotion`,
     `gatsby-transformer-remark`,
     `gatsby-plugin-react-helmet`,

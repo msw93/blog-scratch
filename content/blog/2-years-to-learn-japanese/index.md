@@ -19,11 +19,11 @@ I think the definition the fluency for everyone is different, but for myself, fl
 
 When I first moved to Japan I was a Snowboarding Instructor and lived up in Hokkaido in a little ski town called Niseko and initially had zero desire to learn Japanese, as I was totally surrounded by foreigners. I had the typical "why do I need to learn a second language if I can speak English" attitude.
 
- After about a month or two of living there, I started realizing how awesome Japanese sounded to me and how useful it would be to be able to speak and read Japanese. I also thought about how cool would it be if I could learn what a "Spirit Bomb" was in Japanese. And every time I looked at some mysterious Japanese text it motivated me to start learning. And of course, it goes without saying as a young 25-year-old, immature male 2 things especially motivated me, anime and girls.
+ After about a month or two of living there, I started realizing how awesome Japanese sounded to me and how useful it could be to speak and read Japanese. I also thought about how cool would it be if I could learn what a "Spirit Bomb" was in Japanese. And every time I looked at some mysterious Japanese text it motivated me to start learning. And of course, it goes without saying as a young 25-year-old, immature male, 2 things in particular motivated me, anime and girls.
 
 ![When I pooped, EVEN the toilets were trying to motivate me.](./japanese-toilet.jpg)
 
-So after reading some Reddit posts, looking at all the cool language apps in the play store, and watching some youtube videos I said "fuck it, let's do it, how hard could this whole Japanese thing be?"
+So after reading some Reddit posts, looking at all the cool language apps in the play store, and watching some youtube videos I said "fuck it, let's do this, how hard could this whole Japanese thing be?"
 
 TLDR: 意外に難しかった、 harder than I imagined.
 
@@ -33,9 +33,9 @@ I started feeling inspired after watching some polyglot videos, one polyglot, in
 
 ## Stage 1 - Got Apps bro? and Pimsleur (0-3 months)
 
-So about sometime in the middle of December, I started visiting the [reddit.com/r/learnjapanese](http://reddit.com/r/learnjapanese) subreddit like it was my religion. But I also saw the Instagram ads, the blog posts, the youtube videos, the paid advertisements.
+So about sometime in the middle of December, I started visiting the [reddit.com/r/learnjapanese](http://reddit.com/r/learnjapanese) subreddit like it was my religion. But I also saw the Instagram ads, the blog posts, the youtube videos, the paid advertisements. There were so many different ways and theories about how to learn Japanese.
 
-I decided in this digital age the best way to learn a language was with **Apps**, so I downloaded them all, Duolingo, Lingodeer, Memorize, Anki, some Japanese dictionaries, and I started learning how to read. I also had a friend who was able to _seemingly_ have decent conversation with locals from only using "Pimsleur" (listen and repeat, recorded Japanese lessons) for a few months before coming to Japan, and people seemed to review it quite well online so I downloaded all of those lessons too.
+I decided in this digital age the best way to learn a language was with **Apps**, so I downloaded them all, Duolingo, Lingodeer, Memorize, Anki, some Japanese dictionaries, and I started learning how to read hiragana (the simplest of the Japanese alphabets). At that time I had a friend who was able to _seemingly_ have decent conversation with locals from only using "Pimsleur" (listen and repeat, recorded Japanese lessons) for a few months before coming to Japan, and people seemed to review it quite well online so I downloaded all of those lessons too.
 
 So I started only maybe spending about ~30 minutes a day studying but that quickly escalated to several hours a day. I was learning Hiragana, Katakana, then quickly moved to the Kanji. I became obsessed pretty quickly. Unfortunately around this time, I hurt my shoulder on a failed backflip attempt on my snowboard (who knew that snow could hurt so damn much?) and it forced me into a semi-retirement from teaching snowboarding, which was great because now I could find a job where I study Japanese and Japanese culture full time!
 

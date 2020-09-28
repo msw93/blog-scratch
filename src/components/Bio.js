@@ -48,8 +48,7 @@ const Bio = () => {
       />
       <IntroText>
         Written by Mike Winer who lives and works in Toronto making things and
-        blogging about life and its adventures. You should give him a follow on
-        Twitter.
+        blogging about life and its adventures. 
       </IntroText>
     </FlexContainer>
   )

@@ -1,6 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import styled from "@emotion/styled"
+import { lighten } from 'polished'
 import { colors } from "../style/theme"
 import SEO from "../components/Seo"
 import Bio from "../components/Bio"
@@ -30,8 +31,8 @@ export const BlogContent = styled.article`
   a {
     background: linear-gradient(
       to bottom,
-      ${colors.main} 0%,
-      ${colors.main} 100%
+      ${lighten(0.2, `${colors.main}`)} 0%,
+      ${lighten(0.05, `${colors.main}`)} 100%
     );
     background-position: 0% 100%;
     background-repeat: repeat-x;

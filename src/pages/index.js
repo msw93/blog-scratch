@@ -5,6 +5,7 @@ import Bio from "../components/Bio"
 import Layout from "../components/Layout"
 import SEO from "../components/Seo"
 import styled from "@emotion/styled"
+import { lighten } from 'polished'
 import { colors } from "../style/theme.js"
 import { kebabCase } from "lodash"
 
@@ -57,8 +58,8 @@ const BlogTitle = styled.div`
   a {
     background: linear-gradient(
       to bottom,
-      ${colors.main} 0%,
-      ${colors.main} 100%
+      ${lighten(0.2, `${colors.main}`)} 0%,
+      ${lighten(0.05, `${colors.main}`)} 100%
     );
     background-position: 0% 100%;
     background-repeat: repeat-x;

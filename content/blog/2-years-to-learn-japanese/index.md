@@ -15,7 +15,7 @@ At the time of writing this post, it has been almost 3 years since I started stu
 
 > (of a person) able to express oneself easily and articulately.
 
-I think the definition the fluency for everyone is different, but for myself, fluency meant the above definition but it also meant a lot more. It meant being able to do the things a normal Japanese person could do, like watching TV, listening to the radio, communicating with cashiers, understanding locals, being able to go on dates, and just overall, ease of **understanding** and speaking Japanese.
+I think the definition of fluency for everyone is different, but for myself, fluency meant the above definition but it also meant a lot more. It meant being able to do the things a normal Japanese person could do, like watching TV, listening to the radio, communicating with cashiers, understanding locals, being able to go on dates, and just overall, ease of **understanding** and speaking Japanese.
 
 When I first moved to Japan I was a Snowboarding Instructor and lived up in Hokkaido in a little ski town called Niseko and initially had zero desire to learn Japanese, as I was totally surrounded by foreigners. I had the typical "why do I need to learn a second language if I can speak English" attitude.
 

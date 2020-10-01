@@ -136,7 +136,7 @@ After all this JLPT stuff. I was tired of my job and not sure about my life in J
 
 Up until this point, I feel like I worked just about as hard as one can in a year and a half's time. Even though my study tactics had not been perfect I had still put in the time and I think I had it figured out now. I needed to be in an environment with **no english**. So I decided the best place for my study-cation was the island of Ishigaki.
 
-This time 100% I was going to be fluent or at least damn close. The new study plan was to listen to as much Japanese as possible, sentence mining (creating Anki cards from anime or tv shows), and reading at least an hour every day. And the best job to achieve all of this was a Hostel (well frankly the only job a Gaijin could get down there).
+This time 100% I was going to be fluent or at least damn close. So I devised a new SUPER OPTIMIZED MEGA study plan. It goes at follows: Listen to as much Japanese as possible, sentence mining (creating Anki cards from anime or tv shows), and reading at least an hour every day. The basic idea was try to fill every waking minute with Japanese. And the best job to achieve all of this was to work at a Hostel (well honestly the only job a Gaijin could get down there).
 
 So I started my job and my average day went as follows.
 
@@ -151,9 +151,17 @@ I was super motivated at this point I had already decided to head back home afte
 
 The time flew by and the studying was fun and easy. I made great relationships with the guests and the staff there. I accomplished my 2-year long dream of going on dates completely in Japanese (but if you really just go for it, you can probably do this after a month, but have fun basically communicating like a grunting ape and talking about stuff you like and don't like). I had accomplished almost everything I had set out to do and more.
 
-I was ready to leave, but I wasn't satisfied. I had done everything I could, but it wasn't enough. I still wasn't fluent.
+![Taking your advanced scuba dive certification course in Japanese is great immersion, literally sink or swim!](./scuba.png)
 
-To me being fluent is being able to have a conversation and not fear they throw a word in there you don't understand and you look like a moron. Fluent is being asked a question and being able to answer the question without rehearsing the line in your head a 1000 times. Fluent is being able to follow native conversations without straining so hard you think you are having a brain aneurism. Fluent is not stopping yourself before you say something because you have NO IDEA how to say or explain it. Fluent is not wondering if what you just said made any sense at all, as everyone stares at you blankly. These were all problems and challenges I would face **daily** at the end of my time in Okinawa. The definition of fluent is different for everyone, but for me, it was all those things and I wasn't fluent.
+I was ready to leave, but I wasn't satisfied. I had done everything I could, but it wasn't enough. **I still definitely wasn't fluent**.
+
+Here is the definition from google one more time-
+
+> (of a person) able to express oneself easily and articulately.
+
+And I certainly could not express myself easily and articulately.
+
+To me being fluent is being able to have a conversation and not fear they throw a word in there you don't understand and you look like a moron. Fluent is being asked a question and being able to answer the question without rehearsing the line in your head a 1000 times. Fluent is being able to follow native conversations without straining so hard you think you are having a brain aneurism. Fluent is not stopping yourself before you say something because you have NO IDEA how to say or explain it. Fluent is not wondering if what you just said made any sense at all, as everyone stares at you blankly. These were all problems and challenges I would face **daily** at the end of my time in Okinawa. The definition of fluent is different for everyone, but for me, it was all those things. By my own definition and Google's definition I was not fluent.
 
 This led me to 2 possible conclusions.
 
@@ -178,11 +186,15 @@ Learning Japanese has been one of the most rewarding and life-changing journeys 
 
 The goal of this post was not to dissuade anyone from starting, but to help people set realistic expectations when starting and hopefully help choose the study method that best aligns with their goals.
 
-I had done 1000's of hours of studying, I tried my best, I did everything I possibly could to get to that goal of fluency in under 2 years but I felt disappointed at the end. I had failed or at least it felt like I failed. But truthful I think the only thing I failed at was picking a reasonable goal at the start. After all that studying, trying every resource in the book, doing everything the best way I could, I got nowhere near fluent in two years. I think that my case is not the exception but more close to the rule.
+I had done 1000's of hours of studying and immersing, I tried my best, I did everything I possibly could to get to that goal of fluency in under 2 years but I felt disappointed at the end. I had failed or at least it felt like I failed. But truthful I think the only thing I failed at was picking a reasonable goal at the start. After all that studying, trying every resource in the book, doing everything the best way I could, I got nowhere near fluent in two years. I think that my case is not the exception but more close to the rule.
 
 If I could do it all over again I would skip the apps, skip the Pimsleur, skip everything, except Genki textbooks, Anki, and heavy immersion from day one. Now if I did all this right, would I have been fluent by the two-year mark? For me, I think the answer is 'no', but I would have gotten much closer.
 
 But in the end, I was able to do a lot of what I set out to do. I went on dates, I talked with the locals, had unique, life-changing experiences that most Gaijin will never have, I learned how to watch anime with no english subtitles, I learned how to read japanese manga and novels, I learned the Japanese word for Spirit Bomb (元気玉くらえ!!!) but most importantly I learned you can't fucking be fluent in Japanese in under 2 years. But don't let that stop you from trying!
+
+![We all know that someones credibility in giving advice about studying Japanese is based soley on their Anki stats /s](./anki-stats1.jpg)
+
+![2000 of those are kanji, the rest are sentence or vocab cards](./anki-stats2.jpg)
 
 ![Weird japanese plants](./plants.jpg)
 

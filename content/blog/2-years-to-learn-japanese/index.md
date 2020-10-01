@@ -83,7 +83,7 @@ I would say the total active study time was 1~3 hours daily depending on the day
 
 This continued on for about 9 months and I was definitely making progress I was getting better I could start to have conversations (1-hour conversations with my Italki teachers), I could begin to understand some manga, I was finally beginning to be able to function in Japanese society. **But there was still so much I couldn't do.**
 
-I couldn't buy a car or get my license without a translator, I couldn't understand anything in Keigo (polite Japanese speech), I couldn't understand 95 percent of what the kids were saying, I couldn't even answer the most basic questions asked by the local villagers, I would just smile and nod and walk away awkwardly. In hindsight, I should of もう一回ください-ed (one more time please) to death.
+I couldn't buy a car or get my license without a translator, I couldn't understand anything in Keigo (polite Japanese speech), I couldn't understand 95 percent of what the kids were saying, I couldn't even answer the most basic questions asked by the local villagers, I would just smile and nod and walk away awkwardly. In hindsight, I should of もう一回ください-ed (one more time please) until they shooed me away.
 
 But despite this, all of my coworkers were really astounded by how hard I was studying and how fast I was progressing. My reading ability was quickly exceeding my listening and speaking ability. Everyone around me was impressed, except for myself.
 
@@ -106,7 +106,7 @@ After doing my extensive Reddit research what I concluded that I needed to know 
 
 At this point, I knew about 3500 words (from my core 6k deck), and already knew about ~1000 Kanji (from the kanji deck), and was about halfway through Genki two. When I had crunched the numbers what I needed to do was learn ~500 words a month, 2 grammar chapters a week, and do as much listening and reading as I could do every day. If I did all these things for 5 months, *maybe* I could pass.
 
-So after a week or two of debating doing the N3 for a very likely pass or taking the N2 for a likely fail but at least have some sort of recognized fluency certification, I wasn't sure what I wanted to do. But I had a coworker tell me that I would definitely fail if I took the N2 because he had failed it. For some reason a lot of Gaijin in Japan have this weird insecurity about their Japanese, and that their Japanese is better than everyone else's. It's really weird. Because my moronic coworker told me it was impossible, I HAD to prove that asshole wrong.
+So after a week or two of debating whether to the N3 for a very likely pass or taking the N2 for a likely fail but at least a chance at getting some sort of recognized fluency certification, I wasn't sure what I wanted to do. But I had a coworker tell me that I would definitely fail if I took the N2 because he had failed it. For some reason a lot of Gaijin in Japan have this weird insecurity about their Japanese, and that their Japanese is better than everyone else's. It's really weird. Because my moronic coworker told me it was impossible, I HAD to prove that asshole wrong.
 
 <!-- So I signed up for the N2. I had about 5 months to cram as much Japanese knowledge into my brain. I had my plan, I was ready. Many of the coworkers who had previously failed the JLPT N2 told me it was an impossible task to pass the N2 in such a short period of time and that added more fuel to the fire. I did what a called "rage studying" a level of zen that can only be achieved when trying to *"prove all the haters wrong"*. -->
 
@@ -149,11 +149,11 @@ Some days I would read a bit more, some days I would watch anime all day, some d
 
 I was super motivated at this point I had already decided to head back home after Okinawa to figure life out and decide if I really want to live in Japan or not. I was determined to not let these months go to waste, I wanted to be fluent no matter what.
 
-The time flew by, the studying was fun and easy, I made great relationships with the guests and the staff there. I accomplished my 2-year long dream of going on dates completely in Japanese (but if you really just go for it, you can probably do this after a month, but have fun basically communicating like a grunting ape and talking about stuff you like and don't like). I had accomplished everything I had set out to do and more.
+The time flew by and the studying was fun and easy. I made great relationships with the guests and the staff there. I accomplished my 2-year long dream of going on dates completely in Japanese (but if you really just go for it, you can probably do this after a month, but have fun basically communicating like a grunting ape and talking about stuff you like and don't like). I had accomplished almost everything I had set out to do and more.
 
 I was ready to leave, but I wasn't satisfied. I had done everything I could, but it wasn't enough. I still wasn't fluent.
 
-To me being fluent is being able to have a conversation and not fear they throw a word in there you don't understand and you look like a moron. Fluent is being asked a question and being able to answer the question without rehearsing the line in your head a 1000 times. Fluent is being able to follow native conversations without straining so hard you think you are having a brain aneurism. Fluent is not stopping yourself before you say something because you have NO IDEA how to say or explain it. Fluent is not wondering if what you just said made any sense at all, as everyone stares at you blankly. The definition of fluent is different for everyone, but for me, it was all those things and I wasn't fluent.
+To me being fluent is being able to have a conversation and not fear they throw a word in there you don't understand and you look like a moron. Fluent is being asked a question and being able to answer the question without rehearsing the line in your head a 1000 times. Fluent is being able to follow native conversations without straining so hard you think you are having a brain aneurism. Fluent is not stopping yourself before you say something because you have NO IDEA how to say or explain it. Fluent is not wondering if what you just said made any sense at all, as everyone stares at you blankly. These were all problems and challenges I would face **daily** at the end of my time in Okinawa. The definition of fluent is different for everyone, but for me, it was all those things and I wasn't fluent.
 
 This led me to 2 possible conclusions.
 
@@ -164,7 +164,7 @@ I think the answer to that question now is a little bit of both.
 
 ## Stage 5 - 本当に最後があるのかよ!? This is taking forever
 
-I felt at the end of my time in Ishigaki that finally, I was getting there. Finally, I could see measurable progress. I felt that maybe an additional 1 year of living there would have gotten me to some decent level of fluency where I could honestly say that I was fluent without feeling like a fraud.
+I felt at the end of my time in Ishigaki that *finally*, I was getting there. Finally, I could see measurable progress. I felt that maybe an additional 1 year of living there would have gotten me to some decent level of fluency where I could honestly say that I was fluent without feeling like a fraud.
 
 I like to think learning Japanese is like playing a RPG. Every step of the way, every level up, you get new skills, new powers, new equipment, and god damn it is so awesome. But just like RPG's, it takes longer to level up the higher you get, you might even wondering if you are even gaining any experience points. And of course, there is the last boss - The fearsome chatterbox old man at the onsen (hot spring), where you are butt-naked, defenseless, and you have no idea what the actual fuck this man is saying and you just smile and nod.
 
@@ -176,13 +176,13 @@ So after everything here is my list of cold hard Japanese learning truths that I
 
 Learning Japanese has been one of the most rewarding and life-changing journeys of my life, it had its highs and lows. The best part about learning Japanese is that Japanese people are so damn nice and encouraging they will cheer you on the whole way (with some exceptions) and you will feel so happy you started.
 
-The goal of this post was not to dissuade anyone from starting, but to help people set realistic expectations when starting and hopefully help choose the studying method that best aligns with their goals.
+The goal of this post was not to dissuade anyone from starting, but to help people set realistic expectations when starting and hopefully help choose the study method that best aligns with their goals.
 
 I had done 1000's of hours of studying, I tried my best, I did everything I possibly could to get to that goal of fluency in under 2 years but I felt disappointed at the end. I had failed or at least it felt like I failed. But truthful I think the only thing I failed at was picking a reasonable goal at the start. After all that studying, trying every resource in the book, doing everything the best way I could, I got nowhere near fluent in two years. I think that my case is not the exception but more close to the rule.
 
 If I could do it all over again I would skip the apps, skip the Pimsleur, skip everything, except Genki textbooks, Anki, and heavy immersion from day one. Now if I did all this right, would I have been fluent by the two-year mark? For me, I think the answer is 'no', but I would have gotten much closer.
 
-But in the end, I was able to do a lot of what I set out to do. I went on dates, I talked with the locals, had unique, life-changing experiences that most Gaijin will never have, I learned how to watch anime with no english subtitles, I learned how to read manga, I learned the Japanese word for Spirit Bomb (元気玉くらえ!!!) but most importantly I learned you can't fucking be fluent in Japanese in under 2 years. But don't let that stop you from trying!
+But in the end, I was able to do a lot of what I set out to do. I went on dates, I talked with the locals, had unique, life-changing experiences that most Gaijin will never have, I learned how to watch anime with no english subtitles, I learned how to read japanese manga and novels, I learned the Japanese word for Spirit Bomb (元気玉くらえ!!!) but most importantly I learned you can't fucking be fluent in Japanese in under 2 years. But don't let that stop you from trying!
 
 ![Weird japanese plants](./plants.jpg)
 

@@ -106,7 +106,7 @@ After doing my extensive Reddit research what I concluded that I needed to know 
 
 At this point, I knew about 3500 words (from my core 6k deck), and already knew about ~1000 Kanji (from the kanji deck), and was about halfway through Genki two. When I had crunched the numbers what I needed to do was learn ~500 words a month, 2 grammar chapters a week, and do as much listening and reading as I could do every day. If I did all these things for 5 months, *maybe* I could pass.
 
-So after a week or two of debating whether to the N3 for a very likely pass or taking the N2 for a likely fail but at least a chance at getting some sort of recognized fluency certification, I wasn't sure what I wanted to do. But I had a coworker tell me that I would definitely fail if I took the N2 because he had failed it. For some reason a lot of Gaijin in Japan have this weird insecurity about their Japanese, and that their Japanese is better than everyone else's. It's really weird. Because my moronic coworker told me it was impossible, I HAD to prove that asshole wrong.
+But I still wasn't sure if I should take the N2 and gamble, or take the N3 (the one easier level) and play it safe. After a week of debating with myself I still wasn't sure, but one day at work my coworker told me that I would definitely fail if I took the N2 because he had failed it. For some reason a lot of Gaijin in Japan have this weird insecurity about their Japanese, and that their Japanese is better than everyone else's. I have literally not spoken to a single Gaijin who has humble about their Japanese ability, it's really weird, but that's is a whole other blog post altogether. Because my coworker told me it was impossible, I knew I HAD to prove that idiot wrong.
 
 <!-- So I signed up for the N2. I had about 5 months to cram as much Japanese knowledge into my brain. I had my plan, I was ready. Many of the coworkers who had previously failed the JLPT N2 told me it was an impossible task to pass the N2 in such a short period of time and that added more fuel to the fire. I did what a called "rage studying" a level of zen that can only be achieved when trying to *"prove all the haters wrong"*. -->
 
@@ -182,6 +182,12 @@ So after everything here is my list of cold hard Japanese learning truths that I
 2. Don't believe anyone who gives you those ridiculously short estimates about how long it takes to learn Japanese.
 3. Only one thing will make you fluent, time.
 
+And if you wondering "why should I believe this guy? He probably only passed N2 by luck!" We all known the gold standard of proof of Japanese language ability is your Anki stats.
+
+![We all know that someones credibility in giving advice about studying Japanese is based solely on their Anki stats /s](./anki-stats1.jpg)
+
+![2000 of those are kanji, the rest are sentence or vocab cards](./anki-stats2.jpg)
+
 Learning Japanese has been one of the most rewarding and life-changing journeys of my life, it had its highs and lows. The best part about learning Japanese is that Japanese people are so damn nice and encouraging they will cheer you on the whole way (with some exceptions) and you will feel so happy you started.
 
 The goal of this post was not to dissuade anyone from starting, but to help people set realistic expectations when starting and hopefully help choose the study method that best aligns with their goals.
@@ -191,10 +197,6 @@ I had done 1000's of hours of studying and immersing, I tried my best, I did eve
 If I could do it all over again I would skip the apps, skip the Pimsleur, skip everything, except Genki textbooks, Anki, and heavy immersion from day one. Now if I did all this right, would I have been fluent by the two-year mark? For me, I think the answer is 'no', but I would have gotten much closer.
 
 But in the end, I was able to do a lot of what I set out to do. I went on dates, I talked with the locals, had unique, life-changing experiences that most Gaijin will never have, I learned how to watch anime with no english subtitles, I learned how to read japanese manga and novels, I learned the Japanese word for Spirit Bomb (元気玉くらえ!!!) but most importantly I learned you can't fucking be fluent in Japanese in under 2 years. But don't let that stop you from trying!
-
-![We all know that someones credibility in giving advice about studying Japanese is based soley on their Anki stats /s](./anki-stats1.jpg)
-
-![2000 of those are kanji, the rest are sentence or vocab cards](./anki-stats2.jpg)
 
 ![Weird japanese plants](./plants.jpg)
 

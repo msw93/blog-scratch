@@ -128,7 +128,7 @@ After having this revelation, I didn't really change the way I studied Japanese 
 
 ![I did it, I could officially brag on the internet that I knew Japanese](./jlpt.png)
 
-Long answer - I could read basic articles, I could hold basic conversations, I could finally start to understand the world around me, I could do *almost* everything on my own without a translator. I could live in this Japanese world and function. But I still sucked, I still had to concentrate with the force of Piccolo firing a special beam cannon every time I listened to someone speak, I couldn't understand native Japanese people speaking to each other, it took me 10x longer to read something than a Japanese person. This was fluent? Surely no one would consider this fluent? If I were to compare myself to a child I was about a 4-year-old in terms of listening and about a 8-year-old in terms of reading. Maybe not even that.
+Long answer - I could read basic articles, I could hold basic conversations, I could finally start to understand the world around me, I could do *almost* everything on my own without a translator. I could live in this Japanese world and function. But I still sucked, I still had to concentrate with the force as Piccolo firing a special beam cannon every time I listened to someone speak, I couldn't understand native Japanese people speaking to each other, it took me 10x longer to read something than a Japanese person. This was fluent? Surely no one would consider this fluent? If I were to compare myself to a child, I was about a 4-year-old in terms of listening and about a 8-year-old in terms of reading. Maybe not even that.
 
 ## Stage 4 - Okinawa - the final-est frontier!?!? (1.5 - ~2 years)
 

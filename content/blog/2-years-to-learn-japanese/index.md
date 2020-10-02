@@ -87,7 +87,7 @@ This continued on for about 9 months and I was definitely making progress I was 
 
 I couldn't buy a car or get my license without a translator, I couldn't understand anything in Keigo (polite Japanese speech), I couldn't understand 95 percent of what the kids were saying, I couldn't even answer the most basic questions asked by the local villagers, I would just smile and nod and walk away awkwardly. In hindsight, I should of もう一回ください-ed (one more time please) until they shooed me away.
 
-But despite this, all of my coworkers were really astounded by how hard I was studying and how fast I was progressing. My reading ability was quickly exceeding my listening and speaking ability. Everyone around me was impressed, except for myself.
+But despite this, all of my coworkers were really astounded by how hard I was studying and how fast I was progressing. My reading ability was quickly improving and so was my listening and speaking ability. Everyone around me was impressed, except for myself.
 
 I felt like a 3-year-old, I couldn't express the ideas I wanted to express, I couldn't understand basic conversations between native speakers. If I had to say what my Japanese level was at the time, I would say my speaking and understanding level was that of a toddler, probably even worst because toddler's pronunciation and pitch accents and are really awesome.
 
@@ -176,7 +176,7 @@ I think the answer to that question now is a little bit of both.
 
 I felt at the end of my time in Ishigaki that *finally*, I was getting there. Finally, I could see measurable progress. I felt that maybe an additional 1 year of living there would have gotten me to some decent level of fluency where I could honestly say that I was fluent without feeling like a fraud.
 
-I like to think learning Japanese is like playing a RPG. Every step of the way, every level up, you get new skills, new powers, new equipment, and god damn it is so awesome. But just like RPG's, it takes longer to level up the higher you get, you might even wondering if you are even gaining any experience points. And of course, there is the last boss - The fearsome chatterbox old man at the onsen (hot spring), where you are butt-naked, defenseless, and you have no idea what the actual fuck this man is saying and you just smile and nod.
+I like to think learning Japanese is like playing a RPG. Every step of the way, every level up, you get new skills, new powers, new equipment, and god damn it is so awesome. But just like RPG's, it takes longer to level up the higher you get, you might even wondering if you are even gaining any experience points. And of course, there is the last boss, that you must defeat - The fearsome chatterbox old man at the onsen (hot spring), where you are butt-naked, defenseless, and you have no idea what the actual fuck this man is saying and you just smile and nod.
 
 So after everything here is my list of cold hard Japanese learning truths that I learned on this long journey.
 
@@ -184,7 +184,7 @@ So after everything here is my list of cold hard Japanese learning truths that I
 2. Don't believe anyone who gives you those ridiculously short estimates about how long it takes to learn Japanese.
 3. Only one thing will make you fluent, time.
 
-And if you wondering "why should I believe this guy? He probably only passed N2 by luck!" We all known the gold standard of proof of Japanese language ability is your Anki stats.
+Currently I am nearing my 3 year mark of studying Japanese, and I'm still definitely not fluent. I've slowed down my studying quite considerable since leaving Japan and unfortunately being really good at Japanese is almost completely useless skill in North America. Another idea that online community likes to perpetuate is that if you reach around 10, 000 vocab cards or known words in your target language you are fluent. Below is my anki stats I think know around 11 000 words. So I guess that is another myth busted.
 
 ![We all know that someones credibility in giving advice about studying Japanese is based solely on their Anki stats /s](./anki-stats1.jpg)
 
@@ -194,6 +194,7 @@ Learning Japanese has been one of the most rewarding and life-changing journeys 
 
 The goal of this post was not to dissuade anyone from starting, but to help people set realistic expectations when starting and hopefully help choose the study method that best aligns with their goals.
 
+I think their is a lot of variation when it comes to language learning and a lot of people will probably be much better than I was in much shorter period of time but probably the reverse is equally true.
 I had done 1000's of hours of studying and immersing, I tried my best, I did everything I possibly could to get to that goal of fluency in under 2 years but I felt disappointed at the end. I had failed or at least it felt like I failed. But truthful I think the only thing I failed at was picking a reasonable goal at the start. After all that studying, trying every resource in the book, doing everything the best way I could, I got nowhere near fluent in two years. I think that my case is not the exception but more close to the rule.
 
 If I could do it all over again I would skip the apps, skip the Pimsleur, skip everything, except Genki textbooks, Anki, and heavy immersion from day one. Now if I did all this right, would I have been fluent by the two-year mark? For me, I think the answer is 'no', but I would have gotten much closer.

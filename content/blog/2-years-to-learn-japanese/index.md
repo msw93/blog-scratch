@@ -1,7 +1,7 @@
 ---
 title: You can't become fluent in Japanese in under 2 years.
 date: "2020-08-30"
-description: "Japanese, a tale of love and sorrow, how I failed and you probably will too."
+description: "Japanese, a journey to fluency, how I failed and you probably will too."
 tags: ["humor", "japanese", "japan"]
 ---
 
@@ -19,7 +19,7 @@ I think the definition of fluency for everyone is different, but for myself, flu
 
 When I first moved to Japan I was a Snowboarding Instructor and lived up in Hokkaido in a little ski town called Niseko and initially had zero desire to learn Japanese, as I was totally surrounded by foreigners. I had the typical "why do I need to learn a second language if I can speak English" attitude.
 
- After about a month or two of living there, I started realizing how awesome Japanese sounded to me and how useful it could be to speak and read Japanese. I also thought about how cool would it be if I could learn what a "Spirit Bomb" was in Japanese. And every time I looked at some mysterious Japanese text it motivated me to start learning. And of course, it goes without saying as a young 25-year-old, immature male, 2 things in particular motivated me, anime and girls.
+ After about a month or two of living there, I started slowly realizing how interesting Japanese sounded to me and how useful it could be to speak and read Japanese. I also thought about how cool it would be if I could learn what a "Spirit Bomb" was in Japanese. And every time I looked at some mysterious Japanese text it motivated me to start learning. And of course, it goes without saying as a young 25-year-old, immature male, 2 things in particular motivated me, anime and girls.
 
 ![When I pooped, EVEN the toilets were trying to motivate me.](./japanese-toilet.jpg)
 
@@ -31,13 +31,13 @@ I started feeling inspired after watching some polyglot videos, one polyglot, in
 
 "... Right?"
 
-## Stage 1 - Got Apps bro? and Pimsleur (0-3 months)
+## Stage 1 - Got Apps bro? and Pimsleur [0 - 3 months]
 
 So about sometime in the middle of December, I started visiting the [reddit.com/r/learnjapanese](http://reddit.com/r/learnjapanese) subreddit like it was my religion. But I also saw the Instagram ads, the blog posts, the youtube videos, the paid advertisements. There were so many different ways and theories about how to learn Japanese.
 
 I finally decided in this digital age the best way to learn a language was with **Apps**. So I downloaded them all, Duolingo, Lingodeer, Memorize, Anki, some Japanese dictionaries, and I started learning how to read hiragana (the simplest of the Japanese alphabets). At that time I had a friend who was able to _seemingly_ have decent conversation with locals from only using "Pimsleur" (listen and repeat, recorded Japanese lessons) for a few months before coming to Japan, and it seemed to have good reviews online, so I downloaded all of those lessons too.
 
-I started only spending about ~30 minutes a day studying, but that quickly escalated to several hours a day. I was learning Hiragana, Katakana, then quickly moved on to the dreaded Kanji. I became obsessed pretty quickly. Unfortunately around this time, I hurt my shoulder on a failed backflip attempt on my snowboard (who knew that snow could get that hard-packed?) and it forced me into a semi-retirement from teaching snowboarding, which was great because now I could find a job where I study Japanese and Japanese culture full time!
+I started only spending about ~30 minutes a day studying, but that quickly escalated to several hours a day. I was learning Hiragana, Katakana, then quickly moved on to the dreaded Kanji. I became obsessed pretty quickly. Unfortunately around this time, I hurt my shoulder on a failed back-flip attempt on my snowboard (who knew that snow could get that hard-packed?) and it forced me into a semi-retirement from teaching snowboarding, which was great because now I could find a job where I study Japanese and Japanese culture full time!
 
 So after about 2~3 months of using the apps and Pimsleur, I was better than all my other Gaijin friends, I had finished the Duolingo tree, I was done almost all of the Lingodeer lessons, I knew a few hundred kanji but I still nowhere close to being fluent. I couldn't understand what the store clerks were saying, I could only read the most basic of signs, I certainly could not hold a conversation unless it was about the most basic of things (weather, hello, hot, cold things like that).
 
@@ -69,13 +69,13 @@ So I went back to the drawing board and tried to revise my study strategy to bec
 2. Thou shall ONLY use Anki and forego the other sacrilegious apps (sorry Duolingo and others).
 3. Thou shall learn to **read**.
 
-Some other concepts Reddit told me taught me were, it is important to listen, read, speak, and do grammar study every day. So I really tried to focus on those things and tried to do as much as I could every day. My main study tools were Anki Core 6k deck, jōyō (常用漢字 - common usage kanji) deck, Italki lessons, and the Bibl... I mean Genki. A typical day would be as follows -
+Some other concepts Reddit told me taught me were, it is important to listen, read, speak, and do grammar study every day. So I really tried to focus on those things and tried to do as much as I could every day. My main study tools were Anki Core 6k deck, jōyō (常用漢字 - common usage kanji) deck, italki lessons, and the Bibl... I mean Genki. A typical day would be as follows -
 
 - 7 am-8 am, wake-up and do Anki ~ 1 hour, plus 15 new words a day, and 10 new kanji a day.
 - 9 am- 3 pm, go to work, and try to listen to as much Japanese as possible from students, other teachers, etc.
 - 4 pm - bedtime, study Genki, try to read manga, children's books, or watch some anime usually with English subtitles.
 
-I would also try to do about 2 Italki lessons a week. I felt with all of this, I was listening, reading, talking, and studying grammar just about every day. And according to the gurus and the Reddit Senpai's I could become fluent in less than a year.
+I would also try to do about 2 italki lessons a week. I felt with all of this, I was listening, reading, talking, and studying grammar just about every day. And according to the gurus and the Reddit Senpai's I could become fluent in less than a year.
 
 I would say the total active study time was 1~3 hours daily depending on the day. I was also doing my best to listen while at school, and consume Japanese media in Japanese as best as I could. I did my best to study, but I also did a lot of traveling, exploring and having fun.
 
@@ -112,13 +112,13 @@ But I still wasn't sure if I should take the N2 and gamble, or take the N3 (the 
 
 Other advantages of taking the N2 was that it opened the door to more jobs, as its recognized in Japan as your Japanese being "good" or "serviceable", and I could start applying for jobs that had a Japanese requirement to them. The N2 could be my golden ticket to having a real life in Japan...
 
-These next 5 months, I studied probably the hardest I ever did in my life. Every single Japanese word that was spoken at work I listened like they whispering the answer to the JLPT test questions themselves. I was using Anki so much I started to dream in flashcards. I was addicted to the sweet feeling of the green pie graph in my Anki statistics slowly filling up. I studied so much grammar that it would make my elementary school grammar nazi french teacher proud. Basically **every waking moment was studying Japanese**.
+These next 5 months, I studied the hardest I ever did in my life. Every single Japanese word that was spoken at work I listened like they whispering the answer to the JLPT test questions themselves. I was using Anki so much I started to dream in flashcards. I was addicted to the sweet feeling of the green pie graph in my Anki statistics slowly filling up. I studied so much grammar that it would make my elementary school grammar nazi french teacher proud. Basically **every waking moment was studying Japanese**.
 
-A couple of interesting Japanese study resources I found while studying were Nihongo Con Teppei - A Japanese Podcast for Intermediates, and the second was Matt vs Japan's Youtube channel. Before you say "this asshole I knew it, filthy AJATTer" hear me out.
+A couple of interesting Japanese study resources I found while studying were Nihongo Con Teppei - A Japanese podcast for intermediates, and the second was Matt vs Japan's Youtube channel. Before you say "this asshole I knew it, filthy AJATTer" hear me out.
 
 When I first started listening to [Nihongo Con Teppei](http://teppeisensei.com/) I could hardly follow much of what he was saying, but if I listened and listened again, every subsequent listen I could pick up more and more. This was the one resource that I truly felt improved my Japanese more than anything else in terms of speaking and understanding casual Japanese. I can not recommend this podcast enough to low intermediates all the way to lower advanced learners. **THIS PODCAST HELPED ME COMMUNICATE IN JAPANESE MORE THAN ANYTHING ELSE**. In terms of time spent listening to real-life results with my Japanese, nothing else that I used to study compares. ありがとうございました, 鉄平先生！
 
-The second resource is Matt's channel, and up until this point I had laughed in the face of the Ajatt-ers because I was living the real AJATT (All Japanese All The Time). However, A few things he said really changed my whole perspective on studying Japanese. The first was that you could become fluent in Japanese without speaking a word, which basically means your Japanese level is a function of your input NOT your output. The second was that the process to become *truly* fluent, not Benny fucking... I mean snake oil salesman fluent, was actually around 3-4 years, at the bare minimum.
+The second resource is Matt vs Japan's channel. For those of you who don't know its a language learning youtube channel where he promotes a version of the studying style AJATT - All Japanese All The Time, which is what the name implies. Up until this point I had laughed in the face of the Ajatt-ers because I was living the real AJATT. However, A few things he said in his videos really changed my whole perspective on studying Japanese. The first was that you could become fluent in Japanese without speaking a word, which basically means your Japanese level is a function of your input NOT your output. This made a lot of sense to me. The second was that the process to become *truly* fluent, not Benny fucking... I mean snake oil salesman fluent, was actually around 3-4 years, at the bare minimum.
 
 And Teppei Sensei was saying the almost same thing. His perspective was almost the exact same at Matt's. A very simple message "you want to be fluent in Japanese?" The answer "Just listen". That's it. So simple but it blew my mind. These were people who were very fluent in their target language, people who dedicated a big portion of their lives to language learning. Here I was practicing Kanji, reading manga, doing grammar exercises, listening to people explain Japanese concepts in English. But I had neglected the most important thing - listening to Japanese.
 
@@ -151,15 +151,15 @@ I was super motivated at this point I had already decided to head back home afte
 
 The time flew by and the studying was fun and easy. I made great relationships with the guests and the staff there. I accomplished my 2-year long dream of going on dates completely in Japanese (but if you really just go for it, you can probably do this after a month, but have fun basically communicating like a grunting ape and talking about stuff you like and don't like). I had accomplished almost everything I had set out to do and more.
 
-![Taking your advanced scuba dive certification course in Japanese is great immersion, literally sink or swim!](./scuba.png)
+![Taking your advanced scuba dive certification course in Japanese is great immersion, literally sink or swim! I've always felt like my Japanese ability improved whenever my life was on the line.](./scuba.png)
 
 I was ready to leave, but I wasn't satisfied. I had done everything I could, but it wasn't enough. **I still definitely wasn't fluent**.
 
-Here is the definition from google one more time-
+One more time going back to the definition of fluent from Google-
 
 > (of a person) able to express oneself easily and articulately.
 
-And I certainly could not express myself easily and articulately.
+And I certainly could not express myself easily and definitely not articulately.
 
 To me being fluent is being able to have a conversation and not fear they throw a word in there you don't understand and you look like a moron. Fluent is being asked a question and being able to answer the question without rehearsing the line in your head a 1000 times. Fluent is being able to follow native conversations without straining so hard you think you are having a brain aneurism. Fluent is not stopping yourself before you say something because you have NO IDEA how to say or explain it. Fluent is not wondering if what you just said made any sense at all, as everyone stares at you blankly. These were all problems and challenges I would face **daily** at the end of my time in Okinawa. The definition of fluent is different for everyone, but for me, it was all those things. By my own definition and Google's definition I was not fluent.
 
@@ -170,7 +170,7 @@ This led me to 2 possible conclusions.
 
 I think the answer to that question now is a little bit of both.
 
-## Stage 5 - 本当に最後があるのかよ!? This is taking forever
+## Stage 5 - 本当に最後があるのかよ!? This is taking forever...
 
 I felt at the end of my time in Ishigaki that *finally*, I was getting there. Finally, I could see measurable progress. I felt that maybe an additional 1 year of living there would have gotten me to some decent level of fluency where I could honestly say that I was fluent without feeling like a fraud.
 

@@ -31,6 +31,8 @@ I started feeling inspired after watching some polyglot videos, one polyglot, in
 
 "... Right?"
 
+And here begins my long journey to fluency.
+
 ## Stage 1 - Got Apps bro? and Pimsleur [0 - 3 months]
 
 So about sometime in the middle of December, I started visiting the [reddit.com/r/learnjapanese](http://reddit.com/r/learnjapanese) subreddit like it was my religion. But I also saw the Instagram ads, the blog posts, the youtube videos, the paid advertisements. There were so many different ways and theories about how to learn Japanese.
@@ -81,7 +83,7 @@ I would say the total active study time was 1~3 hours daily depending on the day
 
 ![Doing cool things! But it's hard to study while the oxygen is thin](./fuji-summit.png)
 
-This continued on for about 9 months and I was definitely making progress I was getting better I could start to have conversations (1-hour conversations with my Italki teachers), I could begin to understand some manga, I was finally beginning to be able to function in Japanese society. **But there was still so much I couldn't do.**
+This continued on for about 9 months and I was definitely making progress I was getting better I could start to have conversations (1-hour conversations with my italki teachers), I could begin to understand some manga, I was finally beginning to be able to function in Japanese society. **But there was still so much I couldn't do.**
 
 I couldn't buy a car or get my license without a translator, I couldn't understand anything in Keigo (polite Japanese speech), I couldn't understand 95 percent of what the kids were saying, I couldn't even answer the most basic questions asked by the local villagers, I would just smile and nod and walk away awkwardly. In hindsight, I should of もう一回ください-ed (one more time please) until they shooed me away.
 

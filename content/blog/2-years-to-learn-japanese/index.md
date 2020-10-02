@@ -19,7 +19,7 @@ I think the definition of fluency for everyone is different, but for myself, flu
 
 When I first moved to Japan I was a Snowboarding Instructor and lived up in Hokkaido in a little ski town called Niseko and initially had zero desire to learn Japanese, as I was totally surrounded by foreigners. I had the typical "why do I need to learn a second language if I can speak English" attitude.
 
- After about a month or two of living there, I started slowly realizing how interesting Japanese sounded to me and how useful it could be to speak and read Japanese. I also thought about how cool it would be if I could learn what a "Spirit Bomb" was in Japanese. And every time I looked at some mysterious Japanese text it motivated me to start learning. And of course, it goes without saying as a young 25-year-old, immature male, 2 things in particular motivated me, anime and girls.
+ After about a month or two of living there, I started slowly realizing how interesting Japanese sounded to me and how useful it could be to speak and read Japanese. I also thought about how cool it would be to learn what "Spirit Bomb" was in Japanese. And every time I looked at some mysterious Japanese text it motivated me to start learning. And of course, it goes without saying as a young 25-year-old immature male, 2 things in particular motivated me, anime and girls.
 
 ![When I pooped, EVEN the toilets were trying to motivate me.](./japanese-toilet.jpg)
 
@@ -33,25 +33,25 @@ I started feeling inspired after watching some polyglot videos, one polyglot, in
 
 And here begins my long journey to fluency.
 
-## Stage 1 - Got Apps bro? and Pimsleur [0 - 3 months]
+## Stage 1 - Got Apps bro? and Pimsleur  (0 - 3 months)
 
-So about sometime in the middle of December, I started visiting the [reddit.com/r/learnjapanese](http://reddit.com/r/learnjapanese) subreddit like it was my religion. But I also saw the Instagram ads, the blog posts, the youtube videos, the paid advertisements. There were so many different ways and theories about how to learn Japanese.
+So about sometime in the middle of December, I started visiting the [reddit.com/r/learnjapanese](http://reddit.com/r/learnjapanese) subreddit like it was my religion. But I also saw the Instagram ads, the blog posts, the youtube videos, the paid advertisements. There were so many different ways and theories about how to learn Japanese. I wasn't sure what to start off with.
 
-I finally decided in this digital age the best way to learn a language was with **Apps**. So I downloaded them all, Duolingo, Lingodeer, Memorize, Anki, some Japanese dictionaries, and I started learning how to read hiragana (the simplest of the Japanese alphabets). At that time I had a friend who was able to _seemingly_ have decent conversation with locals from only using "Pimsleur" (listen and repeat, recorded Japanese lessons) for a few months before coming to Japan, and it seemed to have good reviews online, so I downloaded all of those lessons too.
+After some thought, I finally decided in this digital age the best way to learn a language was with **Apps**. So I downloaded them all, Duolingo, Lingodeer, Memorize, Anki, some Japanese dictionaries, and I started learning how to read hiragana (the simplest of the Japanese alphabets). At that time I had a friend who was able to _seemingly_ have decent conversation with locals from only using "Pimsleur" (listen and repeat, recorded Japanese lessons) for a few months before coming to Japan, and it seemed to have good reviews online, so I downloaded all of those lessons too.
 
-I started only spending about ~30 minutes a day studying, but that quickly escalated to several hours a day. I was learning Hiragana, Katakana, then quickly moved on to the dreaded Kanji. I became obsessed pretty quickly. Unfortunately around this time, I hurt my shoulder on a failed back-flip attempt on my snowboard (who knew that snow could get that hard-packed?) and it forced me into a semi-retirement from teaching snowboarding, which was great because now I could find a job where I study Japanese and Japanese culture full time!
+I started only spending about ~30 minutes a day studying, but that quickly escalated to several hours a day. I was learning Hiragana, Katakana, then quickly moved on to the dreaded Kanji(chinese characters that over 2000 in common use). I became obsessed pretty quickly and was slowly spending more and more time each day. Unfortunately around this time, I hurt my shoulder on a failed back-flip attempt on my snowboard (who knew that snow could get almost as hard as ice when packed down?) and it forced me into a semi-retirement from teaching snowboarding, which was great because now I could find a job where I study Japanese and Japanese culture full time!
 
-So after about 2~3 months of using the apps and Pimsleur, I was better than all my other Gaijin friends, I had finished the Duolingo tree, I was done almost all of the Lingodeer lessons, I knew a few hundred kanji but I still nowhere close to being fluent. I couldn't understand what the store clerks were saying, I could only read the most basic of signs, I certainly could not hold a conversation unless it was about the most basic of things (weather, hello, hot, cold things like that).
+So after about 2~3 months of using the apps and Pimsleur, I was better than all my other Gaijin friends, I had finished the Duolingo tree, I was done almost all of the Lingodeer lessons, and I knew a few hundred kanji. I knew I was still nowhere close to being fluent, but I felt like I was well on my way.
 
 ![Felt pretty good about myself, getting this golden beauty.](./duolingo.png)
 
- The thing that bothered me the most was that no matter how much grammar, vocab, kanji, and everything that I learned I could not understand pretty much ANYTHING that anyone said back to me. That pudgy Irish polyglot had deceived me... or maybe I didn't work hard enough? Or maybe this was being so-called "fluent"?
+The thing that bothered me the most was that no matter how much grammar, vocab, kanji, and everything that I learned, I could form a question or a sentence but I could not understand pretty much ANYTHING that anyone said back to me. Why couldn't I understand anything? Had that pudgy Irish polyglot had deceived me?... or maybe I didn't work hard enough? Or maybe this was being so-called "fluent"?
 
- ![I was fluent right!?](./isthisafluency.jpg)
+![I was fluent right!?](./isthisafluency.jpg)
 
 ## Stage 2 - Genki and Anki, to infinity and beyond (3 months - 1 year)
 
-I decided that being in Japan wasn't just enough, but to get a truly immersive environment I would need to move to the 田舎 aka the Japanese countryside. So I found myself a teaching English job at a mountain school in the middle of nowhere Japan and for the first little while, it was truly living the dream.
+I decided that being in Japan wasn't enough, but to become REALLY good at Japanese I would need a more immersive environment. and the 田舎 (inaka) aka the Japanese countryside would be perfect. So after some searching I found myself a teaching English job at a mountain school in the middle of nowhere Japan.
 
 ![My old school traditional style house, does it get any more Japanese than tatami mats!?](./tatamihouse.jpg)
 
@@ -59,11 +59,13 @@ At this point in my Japanese journey, I still felt pretty good about my Japanese
 
 ![My stupid self, right at that first peak.](./dunningkruger.png)
 
-I started my long, painful tumble from the top of Mt. Stupid very shortly after moving to my new village. After living and working with other Gaijin who were much more "fluent" in Japanese than me. The first realizations that not only was I nowhere near fluent, but my Japanese was in fact **horrible** was about the first or second day on the job when my Japanese co-worker took me around to 挨拶 (aisatsu) or greet all our Japanese neighbors. It was my first time hearing that word and the first thing I did was announce to all my coworkers that I was going 暗殺 (ansatsu) all my neighbors. Just a small pronunciation mistake but I had just announced to all of 15 coworkers that I was going to assassinate all of my neighbors ... Not the best first impression.
+I started my long, painful tumble from the top of Mt. Stupid very shortly after moving to my new village. From living and working with other Gaijin who were much more "fluent" in Japanese than myself. After hearing their conversations in Japanese it started to dawn on me, that maybe my Japanese wasn't as good as I thought.
 
-Also while in the midst of brutally assassinating ... I mean pleasantly greeting all neighbors, I had the awful realization couldn't understand anything of what was being spoken, **nothing**. It felt like being a floundering child lost in the middle of the ocean. I had finally arrived at the bottom of the Valley of Despair (maybe a place the Irish polyglot had not spent enough time learning to reach, perhaps?).
+When it really started to sink in that not only was I nowhere near fluent, but my Japanese was in fact **horrible**, was about the first or second day on the job. My Japanese co-worker took me around to 挨拶 (aisatsu) or greet all our Japanese neighbors. It was my first time hearing that word and the first thing I did was announce to all my coworkers that I was going 暗殺 (ansatsu) all my neighbors. Just a small pronunciation mistake but I had just announced to all of my 15 coworkers that I was going **to assassinate** all of my neighbors ... Not the best first impression.
 
-How could this be? I had used all the apps Reddit had recommended, I spent the time, I was learning the kanji maybe I knew about ~500 by then. What was wrong? Surely after 3 months, I should be able to understand something right!?
+And while in the midst of brutally assassinating ... I mean pleasantly greeting all neighbors, I had another awful realization, I couldn't understand anything of what was being spoken, **nothing**. And after being paraded around the neighborhood for hours and speaking with half the village and understanding nothing except the occasional 子供(children) or 自転車 (bicycle) and not being able to answer any questions (which were translated to me because couldn't understand them directly) with anything other incomprehensible stuttering, I had finally arrived at the bottom of the Valley of Despair (maybe a place the Irish polyglot had not spent enough time learning to reach, perhaps?).
+
+How could this be? I had used all the apps Reddit had recommended, I spent the time, I was learning the kanji, I knew about ~500 by then. What was wrong? Surely after 3 months, I should be able to understand something right!?
 
 So I went back to the drawing board and tried to revise my study strategy to become fluent within the 1-year mark, surely that was more reasonable, right? This time I called upon the Reddit sensei's and cast out the internet blogging gurus (Sorry Benny but fuck you), and started consuming their beginner wiki like every word was the word of GOD himself. The result of my research from the holy father is as follows.
 
@@ -195,6 +197,7 @@ Learning Japanese has been one of the most rewarding and life-changing journeys 
 The goal of this post was not to dissuade anyone from starting, but to help people set realistic expectations when starting and hopefully help choose the study method that best aligns with their goals.
 
 I think their is a lot of variation when it comes to language learning and a lot of people will probably be much better than I was in much shorter period of time but probably the reverse is equally true.
+
 I had done 1000's of hours of studying and immersing, I tried my best, I did everything I possibly could to get to that goal of fluency in under 2 years but I felt disappointed at the end. I had failed or at least it felt like I failed. But truthful I think the only thing I failed at was picking a reasonable goal at the start. After all that studying, trying every resource in the book, doing everything the best way I could, I got nowhere near fluent in two years. I think that my case is not the exception but more close to the rule.
 
 If I could do it all over again I would skip the apps, skip the Pimsleur, skip everything, except Genki textbooks, Anki, and heavy immersion from day one. Now if I did all this right, would I have been fluent by the two-year mark? For me, I think the answer is 'no', but I would have gotten much closer.

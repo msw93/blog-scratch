@@ -169,34 +169,32 @@ Let's look at the definition of fluent from Google one more time-
 
 And I certainly could not express myself easily and definitely not articulately.
 
-To me being fluent is being able to have a conversation and not fear they throw a word in there you don't understand and you look like a moron. Fluent is being asked a question and being able to answer the question without rehearsing the line in your head a 1000 times. Fluent is being able to follow native conversations without straining so hard you think you are having a brain aneurism. Fluent is not stopping yourself before you say something because you have NO IDEA how to say or explain it. Fluent is not wondering if what you just said made any sense at all, as everyone stares at you blankly. These were all problems and challenges I would face **daily** at the end of my time in Okinawa. The definition of fluent is different for everyone, but for me, it was all those things. By my own definition and Google's definition I was not fluent.
+Here is my definition of what fluent is. Fluent is being able to have a conversation and not fear they throw a word in there you don't understand and you look like a moron. Fluent is being asked a question and being able to answer the question without rehearsing the line in your head a 1000 times. Fluent is being able to follow native conversations without straining so hard you think you are having a brain aneurism. Fluent is not stopping yourself before you say something because you have NO IDEA how to say or explain it. Fluent also is not wondering if what you just said made any sense at all, as everyone stares at you blankly. All these things were problems and challenges I would face **daily** at the end of my time in Okinawa. The definition of fluent is different for everyone, but that was my definition of fluency. By my own definition and Google's definition I wasn't there.
 
-But other people on the internet had done it in 2 years or less right? This led me to 2 possible conclusions.
+But other people on the internet had become fluent in 2 years or less right? This led me to 2 possible conclusions.
 
 1. I suck at language learning.
-2. What I set out to achieve wasn't realistic in the first place.
+2. What I set out to achieve wasn't realistic in the first place, and those people who can achieve fluency in such a short period of time are truly the exceptions.
 
 I think the answer to that question now is a little bit of both.
 
 ## Stage 5 - 本当に最後があるのかよ!? This is taking forever...
 
-I felt at the end of my time in Ishigaki that *finally*, I was getting there. Finally, I could see measurable progress towards fluency. I felt that maybe an additional 1 year of living there would have gotten me to some decent level of fluency where I could honestly say that I was fluent without feeling like a fraud.
+I felt at the end of my time in Ishigaki that *finally*, I was getting there. Finally, I could see measurable progress towards fluency. I felt that maybe an additional 1 year of living there would have gotten me to some decent level of fluency where I could honestly say that "I am fluent" without feeling like a fraud.
 
-I like to think learning Japanese is like playing a RPG. Every step of the way, every level up, you get new skills, new powers, new equipment, and god damn it is so awesome. But just like RPG's, it takes longer to level up the higher you get, you might even wondering if you are even gaining any experience points. And of course, there is the last boss, that you must defeat - The fearsome chatterbox old man at the onsen (hot spring), where you are butt-naked, defenseless, and you have no idea what the actual fuck this man is saying and you just smile and nod.
+I like to think learning Japanese is like playing a RPG. Every step of the way, every level up, you get new skills, new powers, new equipment, and god damn it is so awesome. But just like RPG's, it takes longer to level up the higher you get, you might even wondering if you are even gaining any experience points. And of course, there is the last boss, that you must defeat - The fearsome chatterbox old man at the onsen (hot spring), he is missing teeth, he is slurring his words, he might be drunk, and you are butt-naked, defenseless, and you have no idea what the actual fuck this man is saying, and you just smile and nod.
+
+Currently, at the time of writing this post I am nearing my 3 year mark of studying Japanese, and I'm still definitely not fluent but I am getting closer every day. I've slowed down my studying quite considerable since leaving Japan. Unfortunately being really good at Japanese is almost completely useless skill in North America. I thought I would share my anki stats so you could get an idea of where I am now. Another idea that the online community likes to perpetuate is that if you reach around 10, 000 vocab cards or known words in your target language you are fluent. Below is my anki stats, I think know around 11 000 words. So I guess that is another myth busted.
+
+![We all know that someones credibility in giving advice about studying Japanese is based solely on their Anki stats /s](./anki-stats1.jpg)
+
+![2000 of those are kanji, the rest are sentence or vocab cards](./anki-stats2.jpg)
 
 So after everything here is my list of cold hard Japanese learning truths that I learned on this long journey.
 
 1. Apps, textbooks, language games, tests etc. are not going to get you fluent or even close. They can help you along the way, give you goals and motivation, but no one ever became fluent in a language with just apps, but lots of people become fluent without them.
 2. Don't believe anyone who gives you those ridiculously short estimates about how long it takes to become fluent in Japanese.
 3. Only one thing will make you fluent: time, and lots of it. There are no shortcuts.
-
-Currently I am nearing my 3 year mark of studying Japanese, and I'm still definitely not fluent. I've slowed down my studying quite considerable since leaving Japan and unfortunately being really good at Japanese is almost completely useless skill in North America. I thought I would share my anki stats so you could get an idea of where I am now. Another idea that online community likes to perpetuate is that if you reach around 10, 000 vocab cards or known words in your target language you are fluent. Below is my anki stats I think know around 11 000 words. So I guess that is another myth busted.
-
-![We all know that someones credibility in giving advice about studying Japanese is based solely on their Anki stats /s](./anki-stats1.jpg)
-
-![2000 of those are kanji, the rest are sentence or vocab cards](./anki-stats2.jpg)
-
-Learning Japanese has been one of the most rewarding and life-changing journeys of my life, it had its highs and lows. The best part about learning Japanese is that Japanese people are so damn nice and encouraging they will cheer you on the whole way (with some exceptions) and you will feel so happy you started.
 
 The goal of this post was not to dissuade anyone from starting, but to help people set realistic expectations when starting and hopefully help choose the study method that best aligns with their goals. Another goal was to help dispel a lot of language learning myths out there.
 
@@ -208,7 +206,9 @@ I had done 1000's of hours of studying and immersing, I tried my best, I did eve
 
 If I could do it all over again I would skip the apps, skip the Pimsleur, skip everything, except Genki textbooks, Anki, and heavy immersion from day one. Now if I did all this right, would I have been fluent by the two-year mark? For me, I think the answer is 'no', but I would have gotten much closer.
 
-But in the end, I was able to do a lot of what I set out to do. I learned so much about Japan and Japanese, and travelled so much of this beautiful country. I went on dates, I interacted with the locals, had unique, life-changing experiences that most Gaijin will never have. I learned how to watch anime with no english subtitles, I learned how to read japanese manga and novels, I even learned the Japanese word for Spirit Bomb (元気玉くらえ!!!) but most importantly I learned you can't be fluent in Japanese in under 2 years. But don't let that stop you from trying!
+Learning Japanese has been one of the most rewarding and life-changing journeys of my life, it had its highs and lows. The best part about learning Japanese is that Japanese people are so damn nice and encouraging they will cheer you on the whole way (with some exceptions) and you will feel so happy you started.
+
+In the end, I was able to do a lot of what I set out to do. I learned so much about Japan and the Japanese language, and travelled so much of this beautiful country. I went on dates, I interacted with the locals, had unique, life-changing experiences that most Gaijin will never have. I learned how to watch anime with no english subtitles, I learned how to read japanese manga and novels, I even learned the Japanese word for Spirit Bomb (元気玉くらえ!!!) but most importantly I learned you can't be fluent in Japanese in under 2 years. But don't let that stop you from trying!
 
 ![Some weird japanese plants](./plants.jpg)
 

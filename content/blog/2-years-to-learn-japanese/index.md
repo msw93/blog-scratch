@@ -188,7 +188,7 @@ So after everything here is my list of cold hard Japanese learning truths that I
 
 1. Apps, textbooks, language games, tests etc. are not going to get you fluent or even close. They can help you along the way, give you goals and motivation, but no one ever became fluent in a language with just apps, but lots of people become fluent without them.
 2. Don't believe anyone who gives you those ridiculously short estimates about how long it takes to become fluent in Japanese.
-3. Only one thing will make you fluent, time.
+3. Only one thing will make you fluent: time, and lots of it. There are no shortcuts.
 
 Currently I am nearing my 3 year mark of studying Japanese, and I'm still definitely not fluent. I've slowed down my studying quite considerable since leaving Japan and unfortunately being really good at Japanese is almost completely useless skill in North America. I thought I would share my anki stats so you could get an idea of where I am now. Another idea that online community likes to perpetuate is that if you reach around 10, 000 vocab cards or known words in your target language you are fluent. Below is my anki stats I think know around 11 000 words. So I guess that is another myth busted.
 
@@ -198,7 +198,9 @@ Currently I am nearing my 3 year mark of studying Japanese, and I'm still defini
 
 Learning Japanese has been one of the most rewarding and life-changing journeys of my life, it had its highs and lows. The best part about learning Japanese is that Japanese people are so damn nice and encouraging they will cheer you on the whole way (with some exceptions) and you will feel so happy you started.
 
-The goal of this post was not to dissuade anyone from starting, but to help people set realistic expectations when starting and hopefully help choose the study method that best aligns with their goals.
+The goal of this post was not to dissuade anyone from starting, but to help people set realistic expectations when starting and hopefully help choose the study method that best aligns with their goals. Another goal was to help dispel a lot of language learning myths out there.
+
+<!-- , like if I do x and y, I can be fluent in 1 year or less! -->
 
 <!-- I think their is a lot of variation when it comes to language learning and a lot of people will probably be much better than I was in much shorter period of time but probably the reverse is equally true. -->
 
@@ -206,7 +208,7 @@ I had done 1000's of hours of studying and immersing, I tried my best, I did eve
 
 If I could do it all over again I would skip the apps, skip the Pimsleur, skip everything, except Genki textbooks, Anki, and heavy immersion from day one. Now if I did all this right, would I have been fluent by the two-year mark? For me, I think the answer is 'no', but I would have gotten much closer.
 
-But in the end, I was able to do a lot of what I set out to do. I learned so much about Japan and Japanese, and travelled so much of this beautiful country. I went on dates, I interacted with the locals, had unique, life-changing experiences that most Gaijin will never have. I learned how to watch anime with no english subtitles, I learned how to read japanese manga and novels, I learned the Japanese word for Spirit Bomb (元気玉くらえ!!!) but most importantly I learned you can't be fluent in Japanese in under 2 years. But don't let that stop you from trying!
+But in the end, I was able to do a lot of what I set out to do. I learned so much about Japan and Japanese, and travelled so much of this beautiful country. I went on dates, I interacted with the locals, had unique, life-changing experiences that most Gaijin will never have. I learned how to watch anime with no english subtitles, I learned how to read japanese manga and novels, I even learned the Japanese word for Spirit Bomb (元気玉くらえ!!!) but most importantly I learned you can't be fluent in Japanese in under 2 years. But don't let that stop you from trying!
 
 ![Some weird japanese plants](./plants.jpg)
 

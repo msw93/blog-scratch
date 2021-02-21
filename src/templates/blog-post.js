@@ -119,6 +119,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
     config: { identifier: post.frontmatter.title },
   }
 
+  console.log('CHOCOl', process.env.GATSBY_DISQUS_NAME)
   return (
     <Layout>
       <SEO
@@ -182,7 +183,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         </NavLinks>
       </nav>
    
-      <DiscussionEmbed shortname={disqusConfig.shortname} config={disqusConfig.config} style={{ marginTop: `3rem` }} />
+      <DiscussionEmbed {...disqusConfig} style={{ marginTop: `3rem` }} />
     </Layout>
   )
 }

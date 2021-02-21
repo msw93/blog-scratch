@@ -50,7 +50,7 @@ const Blurb = styled.h2`
   @media screen and (max-width: 500px) {
     margin: 1rem auto;
   }
-// `
+`
 // const BlogTitle = styled.div`
 //   font-size: 1.4rem;
 //   font-weight: bold;

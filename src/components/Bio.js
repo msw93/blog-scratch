@@ -3,19 +3,15 @@ import { useStaticQuery } from "gatsby"
 import Image from "gatsby-image"
 import styled from "@emotion/styled"
 // import { colors } from "../style/theme"
+// import { lighten } from 'polished'
+import { CoolExternalLink } from './CoolLinks'
+
 
 const FlexContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
 `
-// const ImageMask = styled.div`
-//   /* display: inline-block;
-//   width: 100px;
-//   height: 100px;
-//   border-radius: 50%;
-//   overflow: hidden; */
-// `
 
 const IntroText = styled.p`
   font-size: 1.0rem;
@@ -48,7 +44,7 @@ const Bio = () => {
       />
       <IntroText>
         Written by Mike Winer who lives and works in Toronto making things and
-        blogging about life and its adventures. 
+        blogging about life and its adventures. Find me on <CoolExternalLink href="https://twitter.com/MikeFromGunma">Twitter here</CoolExternalLink>.
       </IntroText>
     </FlexContainer>
   )

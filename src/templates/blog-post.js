@@ -19,9 +19,9 @@ const NavLinks = styled.ul`
     color: ${colors.main};
   }
 `
-export const BlogPost = styled.article``
+const BlogPost = styled.article``
 
-export const BlogContent = styled.article`
+const BlogContent = styled.article`
   blockquote {
     font-style: italic;
     padding: 0.5em 10px;
@@ -38,7 +38,7 @@ export const BlogContent = styled.article`
     background-repeat: repeat-x;
     background-size: 4px 3px;
     text-decoration: none;
-    transition: background-size 0.3s;
+    transition: background-size 0.3s, color 0.3s;
   }
   a:visited,
   a:link {
@@ -46,6 +46,7 @@ export const BlogContent = styled.article`
   }
   a:hover {
     background-size: 4px 50px;
+    color: white;
     /* color: white; */
   }
   h1,

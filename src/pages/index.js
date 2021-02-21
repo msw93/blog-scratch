@@ -4,8 +4,9 @@ import Toggler from '../components/ThemeToggle';
 import Bio from "../components/Bio"
 import Layout from "../components/Layout"
 import SEO from "../components/Seo"
+import { CoolInternalLink } from '../components/CoolLinks'
 import styled from "@emotion/styled"
-import { lighten } from 'polished'
+// import { lighten } from 'polished'
 import { colors } from "../style/theme.js"
 import { kebabCase } from "lodash"
 
@@ -49,33 +50,18 @@ const Blurb = styled.h2`
   @media screen and (max-width: 500px) {
     margin: 1rem auto;
   }
-`
-const BlogTitle = styled.div`
-  font-size: 1.4rem;
-  font-weight: bold;
-  margin: 0 0;
-  color: black;
-  a {
-    background: linear-gradient(
-      to bottom,
-      ${lighten(0.2, `${colors.main}`)} 0%,
-      ${lighten(0.05, `${colors.main}`)} 100%
-    );
-    background-position: 0% 100%;
-    background-repeat: repeat-x;
-    background-size: 4px 3px;
-    text-decoration: none;
-    transition: background-size 0.3s;
-  }
-  a:visited,
-  a:link {
-    /* color: black; */
-  }
-  a:hover {
-    background-size: 4px 50px;
-    /* color: white; */
-  }
-`
+// `
+// const BlogTitle = styled.div`
+//   font-size: 1.4rem;
+//   font-weight: bold;
+//   margin: 0 0;
+//   color: black;
+//   ${CoolInternalLink} {
+//     display: block;
+//     color:red;
+//   }
+
+// `
 const BlogDescription = styled.p`
   margin: 0.5rem 0px 2rem 0px;
 `
@@ -105,9 +91,7 @@ export default function Home({ data }) {
           return (
             <article key={node.fields.slug}>
               <header>
-                <BlogTitle>
-                  <Link to={node.fields.slug}>{title}</Link>
-                </BlogTitle>
+                <CoolInternalLink to={node.fields.slug} fontSize={`1.4rem`} bold title>{title}</CoolInternalLink>
                 <small>{node.frontmatter.date}</small>
                 {node.frontmatter.tags ? (
                   <TagsList>

@@ -43,7 +43,7 @@ const Bio = () => {
         fixed={fixedImage}
       />
       <IntroText>
-        Written by Mike Winer who lives and works in Toronto making things and
+        Written by Mike W who lives and works in Toronto making things and
         blogging about life and its adventures. Find me on <CoolExternalLink href="https://twitter.com/MikeFromGunma">Twitter here</CoolExternalLink>.
       </IntroText>
     </FlexContainer>

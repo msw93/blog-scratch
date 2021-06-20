@@ -1,11 +1,8 @@
 import React from "react"
-import { useStaticQuery } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 import styled from "@emotion/styled"
-// import { colors } from "../style/theme"
-// import { lighten } from 'polished'
-import { CoolExternalLink } from './CoolLinks'
-
+import { CoolExternalLink } from "./CoolLinks"
 
 const FlexContainer = styled.div`
   display: flex;
@@ -14,7 +11,7 @@ const FlexContainer = styled.div`
 `
 
 const IntroText = styled.p`
-  font-size: 1.0rem;
+  font-size: 1rem;
   font-weight: 200;
 `
 
@@ -32,7 +29,6 @@ const Bio = () => {
   `)
 
   const fixedImage = data.avatar.childImageSharp.fixed
-  // const { image } = data.
   return (
     <FlexContainer>
       <Image
@@ -44,7 +40,11 @@ const Bio = () => {
       />
       <IntroText>
         Written by Mike W who lives and works in Toronto making things and
-        blogging about life and its adventures. Find me on <CoolExternalLink href="https://twitter.com/MikeFromGunma">Twitter here</CoolExternalLink>.
+        blogging about life and its adventures. Find me on{" "}
+        <CoolExternalLink href="https://twitter.com/MikeFromGunma">
+          Twitter here
+        </CoolExternalLink>
+        .
       </IntroText>
     </FlexContainer>
   )

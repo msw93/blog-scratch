@@ -22,7 +22,6 @@ const Layout = ({ children }) => {
             padding: 0;
             margin: 0;
             min-height: 100vh;
-            background: linear-gradient(#ffffff, plum);
             font-family: "Open Sans", sans-serif;
             a {
               color: #000000;

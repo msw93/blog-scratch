@@ -1,12 +1,11 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
-import Toggler from '../components/ThemeToggle';
+import Toggler from "../components/ThemeToggle"
 import Bio from "../components/Bio"
 import Layout from "../components/Layout"
-import SEO from "../components/Seo"
-import { CoolInternalLink } from '../components/CoolLinks'
+import Seo from "../components/Seo"
+import { CoolInternalLink } from "../components/CoolLinks"
 import styled from "@emotion/styled"
-// import { lighten } from 'polished'
 import { colors } from "../style/theme.js"
 import { kebabCase } from "lodash"
 
@@ -18,7 +17,6 @@ const HeaderText = styled.h1`
   line-height: 4.4rem;
 `
 const TagsList = styled.ul`
-  /* color: ${colors.main}; */
   display: flex;
   margin: 0;
   padding: 0;
@@ -29,12 +27,9 @@ const Tag = styled.li`
   margin-right: 3px;
   padding: 2px 6px;
   border-radius: 4px;
-  /* border: 1px solid grey; */
   background-color: ${colors.main};
   font-weight: 200;
   font-size: 0.8rem;
-  /* opacity: 0.7; */
-  /* color: white; */
   a {
     color: white;
     text-decoration: none;
@@ -51,34 +46,21 @@ const Blurb = styled.h2`
     margin: 1rem auto;
   }
 `
-// const BlogTitle = styled.div`
-//   font-size: 1.4rem;
-//   font-weight: bold;
-//   margin: 0 0;
-//   color: black;
-//   ${CoolInternalLink} {
-//     display: block;
-//     color:red;
-//   }
-
-// `
 const BlogDescription = styled.p`
   margin: 0.5rem 0px 2rem 0px;
 `
 const StyledToggle = styled(Toggler)`
   margin: 1rem;
   float: right;
-  /* display: none; */
-` 
+`
 
 export default function Home({ data }) {
   const posts = data.allMarkdownRemark.edges
-  //console.log(posts[2].node.frontmatter.tags, 'hi')
 
   return (
     <div>
       <Layout>
-        <SEO title="All Blogs" />
+        <Seo title="All Blogs" />
         <StyledToggle />
         <HeaderText>Mike W Blog</HeaderText>
         <Blurb>
@@ -91,7 +73,14 @@ export default function Home({ data }) {
           return (
             <article key={node.fields.slug}>
               <header>
-                <CoolInternalLink to={node.fields.slug} fontSize={`1.4rem`} bold title>{title}</CoolInternalLink>
+                <CoolInternalLink
+                  to={node.fields.slug}
+                  fontSize={`1.4rem`}
+                  bold
+                  title
+                >
+                  {title}
+                </CoolInternalLink>
                 <small>{node.frontmatter.date}</small>
                 {node.frontmatter.tags ? (
                   <TagsList>

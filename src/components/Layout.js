@@ -1,12 +1,11 @@
 import React from "react"
-import { Global, css } from "@emotion/core"
+import { Global, css } from "@emotion/react"
 import styled from "@emotion/styled"
-import { BlogContent } from "../templates/blog-post"
+import { BlogContent } from "../style/blog-style"
 
 require("typeface-open-sans")
 
 const Wrapper = styled.div`
-  ${"" /* border: 2px solid blue; */}
   max-width: 850px;
   margin: 0 auto;
   padding: 1rem;
@@ -22,6 +21,8 @@ const Layout = ({ children }) => {
           body {
             padding: 0;
             margin: 0;
+            min-height: 100vh;
+            background: linear-gradient(#ffffff, plum);
             font-family: "Open Sans", sans-serif;
             a {
               color: #000000;
@@ -30,7 +31,7 @@ const Layout = ({ children }) => {
 
           body.dark {
             -webkit-font-smoothing: antialiased;
-            background-color: #121212;
+            background: #121212;
             color: white;
             a {
               color: white;

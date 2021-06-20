@@ -1,115 +1,18 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import styled from "@emotion/styled"
-import { lighten } from 'polished'
 import { colors } from "../style/theme"
-import SEO from "../components/Seo"
+import Seo from "../components/Seo"
 import Bio from "../components/Bio"
 import Layout from "../components/Layout"
-import Toggler from "../components/ThemeToggle"
 import { DiscussionEmbed } from "disqus-react"
-
-const NavLinks = styled.ul`
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  list-style: none;
-  padding: 0;
-  a {
-    color: ${colors.main};
-  }
-`
-const BlogPost = styled.article``
-
-const BlogContent = styled.article`
-  blockquote {
-    font-style: italic;
-    padding: 0.5em 10px;
-    border-left: 0.32rem solid ${colors.main};
-    background: #f9f9f9;
-  }
-  a {
-    background: linear-gradient(
-      to bottom,
-      ${lighten(0.2, `${colors.main}`)} 0%,
-      ${lighten(0.05, `${colors.main}`)} 100%
-    );
-    background-position: 0% 100%;
-    background-repeat: repeat-x;
-    background-size: 4px 3px;
-    text-decoration: none;
-    transition: background-size 0.3s, color 0.3s;
-  }
-  a:visited,
-  a:link {
-    /* color: black; */
-  }
-  a:hover {
-    background-size: 4px 50px;
-    color: white;
-    /* color: white; */
-  }
-  h1,
-  h2,
-  h3,
-  h4,
-  h5 {
-    color: ${colors.main};
-    margin: 0;
-  }
-  p {
-    margin: 1rem 0;
-  }
-  strong {
-    color: ${colors.main};
-  }
-  /* figure {
-    max-height: 90vh;
-    max-width: 100vw;
-  }
-  img{
-    max-height: 90vh;
-    width: auto;
-    height: auto;
-    object-fit: contain;
-  } */
-  /* figure {
-    margin: 0rem 0;
-  } */
-  figcaption {
-    color: rgba(0, 0, 0, 0.6);
-    font-weight: 400;
-    font-style: italic;
-    text-align: center;
-  }
-  @media (max-width: 500px) {
-    figure {
-      margin: 0rem 0;
-    }
-  }
-`
-const BlogName = styled.h3`
-  a:hover,
-  a:visited,
-  a:link,
-  a:active {
-    /* color: black; */
-    text-decoration: none;
-  }
-`
-const BlogHeader = styled.div`
-  h1 {
-    margin-bottom: 0;
-  }
-  p {
-    font-style: italic;
-    margin: 0rem 0rem;
-  }
-`
-const StyledToggle = styled(Toggler)`
-  margin: 1rem;
-  float: right;
-`
+import {
+  BlogName,
+  BlogPost,
+  BlogContent,
+  StyledToggle,
+  BlogHeader,
+  NavLinks,
+} from "../style/blog-style"
 
 const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark
@@ -119,10 +22,9 @@ const BlogPostTemplate = ({ data, pageContext }) => {
     config: { identifier: post.frontmatter.title },
   }
 
-  console.log('CHOCOl', process.env.GATSBY_DISQUS_NAME)
   return (
     <Layout>
-      <SEO
+      <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
@@ -182,7 +84,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           </li>
         </NavLinks>
       </nav>
-   
+
       <DiscussionEmbed {...disqusConfig} style={{ marginTop: `3rem` }} />
     </Layout>
   )

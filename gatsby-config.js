@@ -13,7 +13,7 @@ module.exports = {
       summary: `Lives in Toronto, likes building things.`,
     },
     description: `Personal Blog for Mike Winer`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://mikewblog.com`,
     social: {
       twitter: `mikewiner`,
     },
@@ -34,7 +34,6 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    `gatsby-plugin-preact`,
     `gatsby-plugin-dark-mode`,
      {
       resolve: `gatsby-transformer-remark`,

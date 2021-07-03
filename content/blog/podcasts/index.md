@@ -5,6 +5,10 @@ description: "Podcasts, a language learners secret weapon to fluency. Are you ta
 tags: ["Japan", "Japanese"]
 ---
 
+
+Post blog ideas here (delete later)
+- 
+
 Hello language learning community, what if I told you there is a secret weapon that most people don't take advantage of when learning a second language, a total game-changer!?
 Language learning communities don't want you to know this one dirty little secret!
 
